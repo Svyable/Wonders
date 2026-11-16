@@ -1,0 +1,1447 @@
+[
+  {
+    "site_id": "giza",
+    "year": -10500,
+    "title": "Before the pyramids: landscape, not a lost city",
+    "description": "This is the date invoked by some modern lost-civilization theories, not an archaeological starting date for Giza. There is no excavated evidence for a pyramid-building culture on the plateau in 10,500 BCE. The limestone was here; the Fourth Dynasty pyramids were not.",
+    "category": "evidence",
+    "evidence_basis": "Unverified ancient-civilization claim; geological setting",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -7000,
+    "title": "The wetter Sahara",
+    "description": "Early and mid-Holocene northern Africa experienced wetter phases than today. The Nile and western desert changed as climate fluctuated; do not imagine a continuous tropical jungle on the plateau.",
+    "category": "site",
+    "evidence_basis": "Palaeoenvironmental reconstruction",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "2022 Nile waterscapes paper (PNAS)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9477388/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -3100,
+    "title": "A unified Egyptian state emerges",
+    "description": "Political unification and the formation of kingship established the institutions that later commanded large construction projects. Memphis became an important royal and administrative center close to Giza. The exact sequence of early dynastic events is still studied.",
+    "category": "site",
+    "evidence_basis": "Broad historical chronology",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -3000,
+    "title": "Early burials on the plateau",
+    "description": "Some tombs and archaeological indications suggest use of Giza before Khufu. They cannot be described confidently as a complete Fourth Dynasty cemetery yet; large parts of the formal necropolis came later.",
+    "category": "site",
+    "evidence_basis": "Archaeological interpretation",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2660,
+    "title": "Before Giza: stone architecture at Saqqara",
+    "description": "Djoser’s Step Pyramid at Saqqara demonstrated monumental stone building in an earlier dynasty. It is not a lost pyramid at Giza, so the scene remains unchanged.",
+    "category": "site",
+    "evidence_basis": "Established off-site comparison",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2610,
+    "title": "Sneferu experiments at Meidum and Dahshur",
+    "description": "Bent, stepped and true pyramid forms before Khufu show the rapid development of large-scale construction. Sneferu’s monuments are off-site; this is contextual history, not geometry added at Giza.",
+    "category": "site",
+    "evidence_basis": "Established off-site comparison; dates approximate",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2589,
+    "title": "Khufu’s construction begins",
+    "description": "The conventional chronology places Khufu’s reign in the mid-third millennium BCE, but absolute dates vary by source. Quarrying, surveying, hauling and the construction of a working harbor were part of a coordinated state project. The modeled start year is illustrative, not a dated foundation inscription.",
+    "category": "site",
+    "evidence_basis": "Reign dating and building sequence estimated",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "label": "2022 Nile waterscapes paper (PNAS)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9477388/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2582,
+    "title": "The organization behind the stone",
+    "description": "Thousands of people are needed not just to lift masonry, but to quarry limestone, maintain tools, prepare food, manage stock, make boats, keep records and deliver stone. The 20,000–30,000 figure often quoted for Giza is a broad workforce estimate, not a census of all workers on one day.",
+    "category": "site",
+    "evidence_basis": "Scholarly estimate; no surviving annual workforce roster",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "AERA — The Lost City of the Pyramid Builders",
+        "url": "https://aeraweb.org/projects/lost-city/"
+      },
+      {
+        "label": "AERA — Feeding Pyramid Workers",
+        "url": "https://aeraweb.org/feeding-pyramid-workers/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2579,
+    "title": "The Great Pyramid takes shape",
+    "description": "Most of a pyramid’s volume is concentrated in its lower courses. The exact construction pace and ramp designs are unknown; this atlas visualizes one approximate progression rather than claiming to reproduce every building season.",
+    "category": "site",
+    "evidence_basis": "Illustrative construction schedule",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2566,
+    "title": "Khufu’s complex nears completion",
+    "description": "The pyramid originally stood about 146.6 meters high and carried fine limestone casing. Merer’s surviving logbook records a team transporting Tura limestone by boat to Khufu’s works late in the reign. It does not reveal the total workforce or solve the upper-ramp problem.",
+    "category": "site",
+    "evidence_basis": "Monument measurements and contemporary transport record",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "University of Chicago — Merer and Giza logistics",
+        "url": "https://oi.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/Annual-Reports/Annual-Report-2016-17.pdf"
+      },
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2560,
+    "title": "Djedefre and the succession",
+    "description": "Khufu’s successor Djedefre built his own pyramid at Abu Rawash, not on the Giza plateau. His place in the succession before Khafre is important; absolute reign dates vary in different chronologies.",
+    "category": "site",
+    "evidence_basis": "Royal succession; chronology approximate",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Digital Giza — People and Places",
+        "url": "https://giza.fas.harvard.edu/commontopics/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2558,
+    "title": "Khafre’s royal project begins",
+    "description": "Khafre placed his pyramid on higher ground and connected it to a mortuary temple, causeway and valley temple. Its apparent height in some views owes much to the bedrock beneath it.",
+    "category": "site",
+    "evidence_basis": "Monument attribution and survey",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      },
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2545,
+    "title": "The Sphinx rises from bedrock",
+    "description": "Most evidence favors a date in Khafre’s reign for the Great Sphinx and its temple. It was carved from the natural limestone, not assembled from blocks; the exact sequence of cutting and temple completion is reconstructed from the site.",
+    "category": "site",
+    "evidence_basis": "Mainstream attribution; carving sequence inferred",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2532,
+    "title": "Khafre’s causeway, temples and Sphinx",
+    "description": "A processional route linked the valley to the plateau, with the Sphinx precinct next to the valley temple. These buildings were integral to kingship and mortuary ritual, not merely decorative forecourts.",
+    "category": "site",
+    "evidence_basis": "Known alignment; simplified model",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2510,
+    "title": "Menkaure’s pyramid and granite casing",
+    "description": "Menkaure’s pyramid is much smaller than its neighbors. Its lower facing used granite, which required transportation from far south. More modest scale did not mean the end of sophisticated royal construction.",
+    "category": "site",
+    "evidence_basis": "Monument evidence; approximate dates",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2503,
+    "title": "Shepseskaf finishes the temples",
+    "description": "After Menkaure’s death, temple portions were completed in mudbrick rather than all the intended stone. This practical change is visible in the archaeological evidence, though precise completion dates remain approximate.",
+    "category": "site",
+    "evidence_basis": "Excavation-based interpretation",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      },
+      {
+        "label": "AERA — Fieldwork and Khentkawes settlement",
+        "url": "https://aeraweb.org/projects/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2498,
+    "title": "Khentkawes I and royal succession",
+    "description": "Khentkawes I received an exceptional monument and an associated settlement. Her exact constitutional and family role at the transition toward the Fifth Dynasty is debated, so calling her definitively a reigning pharaoh would go beyond the evidence.",
+    "category": "site",
+    "evidence_basis": "Monument established; political role debated",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "AERA — Fieldwork and Khentkawes settlement",
+        "url": "https://aeraweb.org/projects/"
+      },
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2490,
+    "title": "Royal complexes established, not abandoned",
+    "description": "The great Fourth Dynasty royal complexes are in place. The necropolis remained active: priests, artisans and administrators maintained mortuary institutions, while relatives and officials continued to build and use tombs.",
+    "category": "site",
+    "evidence_basis": "Long-lived mortuary and cemetery evidence",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "label": "AERA — Fieldwork and Khentkawes settlement",
+        "url": "https://aeraweb.org/projects/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2450,
+    "title": "Priests, families and generations",
+    "description": "Successive generations served ritual endowments, supplied offerings and tended tombs. Giza became a place of work, memory and family status rather than an empty architectural stage.",
+    "category": "site",
+    "evidence_basis": "Excavated tombs and cult settlements",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "label": "AERA — Fieldwork and Khentkawes settlement",
+        "url": "https://aeraweb.org/projects/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2250,
+    "title": "Later Old Kingdom repairs at Menkaure",
+    "description": "The Menkaure valley temple shows successive phases, including later Old Kingdom modification and rebuilding. Dating individual phases may be contested; the point is sustained use long after Menkaure.",
+    "category": "site",
+    "evidence_basis": "Stratigraphic interpretation; phase dates approximate",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "AERA — Fieldwork and Khentkawes settlement",
+        "url": "https://aeraweb.org/projects/"
+      },
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -2150,
+    "title": "A changing Old Kingdom",
+    "description": "The end of the Old Kingdom saw changes in central power and local administration. Some institutions declined and tombs suffered reuse or robbery, but it is inaccurate to imagine every cult stopping in one year.",
+    "category": "site",
+    "evidence_basis": "Broad periodization; not a single-day collapse",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": -1950,
+    "title": "The Fayum before the royal complex",
+    "description": "The Fayum depression, connected to the Nile by a natural waterway, offered farmland, wetland and a gateway to the western desert. The setting explains why Middle Kingdom rulers invested here.",
+    "category": "physical",
+    "evidence_basis": "Archaeological context",
+    "scene_effect": "pre",
+    "scene_warning": "General regional context; not a measured map of Fayum waterways at this exact year.",
+    "human_context": "People cultivated fields, managed water and moved between the Nile valley and the Fayum. The exact local population at this date is unknown.",
+    "why_it_matters": "A monument is never only a monument. Its power depended on agricultural wealth and the logistics of the wider region.",
+    "sources": [
+      {
+        "label": "UCL · Digital Egypt: Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/index.html"
+      },
+      {
+        "label": "UCL · Amenemhat III",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/amenemhatIII.html"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": -1850,
+    "title": "Amenemhat III transforms the Fayum",
+    "description": "Amenemhat III expands royal activity across the Fayum. His monuments include work at Medinet Maadi and Biahmu as well as the eventual pyramid complex at Hawara.",
+    "category": "physical",
+    "evidence_basis": "Royal building activity",
+    "scene_effect": "middle",
+    "scene_warning": "The dates for Amenemhat III and individual works vary among chronological systems.",
+    "human_context": "Farmers, officials, craftspeople, masons and surveyors supported a state that could move food and building materials across Egypt.",
+    "why_it_matters": "Giza is a Fourth Dynasty royal landscape. Hawara tells the later Middle Kingdom story of a government reworking a living, irrigated region.",
+    "sources": [
+      {
+        "label": "UCL · Amenemhat III",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/amenemhatIII.html"
+      },
+      {
+        "label": "University of York · Hawara preservation and reconstruction",
+        "url": "https://pure.york.ac.uk/portal/en/projects/labyrinth-conservation-analysis-and-virtual-reconstruction-of-arc/"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": -1820,
+    "title": "Hawara: the second royal pyramid",
+    "description": "After a first pyramid was built at Dahshur, Amenemhat III’s royal complex was established at Hawara. Its mudbrick pyramid was originally covered with stone; the weathered core survives.",
+    "category": "physical",
+    "evidence_basis": "Pyramid remains excavated",
+    "scene_effect": "middle",
+    "scene_warning": "Pyramid geometry in this scene is artistic; no exact workforce curve, casing date or surveyed elevation is asserted.",
+    "human_context": "The construction required organized quarry supply, transport, crafts and provisioning, but no reliable total construction workforce for Hawara survives.",
+    "why_it_matters": "Hawara demonstrates that pyramids did not end with Giza. Their architecture and their place in royal religion kept changing for centuries.",
+    "sources": [
+      {
+        "label": "UCL · Amenemhat III",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/amenemhatIII.html"
+      },
+      {
+        "label": "UCL · Digital Egypt: Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/index.html"
+      },
+      {
+        "label": "University of York · Hawara preservation and reconstruction",
+        "url": "https://pure.york.ac.uk/portal/en/projects/labyrinth-conservation-analysis-and-virtual-reconstruction-of-arc/"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": -1800,
+    "title": "A temple complex of extraordinary scale",
+    "description": "A vast mortuary temple was associated with the pyramid. Scholars widely identify its remains with the later classical “Labyrinth.” Very little survives intact of the original rooms.",
+    "category": "physical",
+    "evidence_basis": "Temple association established",
+    "scene_effect": "middle",
+    "scene_warning": "All drawn corridors/courts are a conceptual motif. None is claimed as a surveyed, verified room.",
+    "human_context": "Temple personnel, artisans, administrators and farmers made royal cult practices possible; their specific staffing numbers at Hawara cannot be reconstructed.",
+    "why_it_matters": "We know a major temple complex existed. We do not know the precise plan of thousands of chambers. The diagram therefore shows an area, not individual verified rooms.",
+    "sources": [
+      {
+        "label": "Uytterhoeven & Blom-Böer · Journal of Egyptian Archaeology (2002)",
+        "url": "https://doi.org/10.1177/030751330208800108"
+      },
+      {
+        "label": "UCL · Reconstructive models and their limitations",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/1372/"
+      },
+      {
+        "label": "UCL · Digital Egypt: Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/index.html"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": -1700,
+    "title": "After the king: worship and burial",
+    "description": "The pyramid precinct remained part of a wider religious and funerary landscape. Burial grounds at Hawara span the Middle Kingdom and later periods; continuity varied over the centuries.",
+    "category": "physical",
+    "evidence_basis": "Material and religious record",
+    "scene_effect": "after",
+    "scene_warning": "No claim of unbroken worship or occupation in every century.",
+    "human_context": "Priests, families and local communities could value a royal place long after its founder had died. What we know comes from incomplete remains, not a continuous diary.",
+    "why_it_matters": "The life of a wonder is usually longer than the reign in which it was founded.",
+    "sources": [
+      {
+        "label": "UCL · Digital Egypt: Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/index.html"
+      },
+      {
+        "label": "University of York · Hawara preservation and reconstruction",
+        "url": "https://pure.york.ac.uk/portal/en/projects/labyrinth-conservation-analysis-and-virtual-reconstruction-of-arc/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -1550,
+    "title": "New Kingdom interest in the ancient plateau",
+    "description": "Later rulers revisited the monuments as prestigious ancestors and sacred places. Sand accumulated unevenly around the Sphinx and was cleared at different moments.",
+    "category": "site",
+    "evidence_basis": "Historical and archaeological synthesis",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -1420,
+    "title": "Amenhotep II and Horemakhet",
+    "description": "Amenhotep II established a temple honoring the Sphinx as Horemakhet, “Horus in the Horizon.” This is distinct from the later Dream Stele, and the model already includes the approximate temple location.",
+    "category": "site",
+    "evidence_basis": "Monument attested; dates approximate",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -1400,
+    "title": "Thutmose IV’s Dream Stele",
+    "description": "The inscription says that a prince slept near the Sphinx and received a royal promise in a dream. It is a primary source for royal ideology, not independent proof that the dream happened exactly as described.",
+    "category": "site",
+    "evidence_basis": "Inscribed royal account",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -1250,
+    "title": "Ramesside reuse and restoration",
+    "description": "Later kings and their officials remembered the pyramid-builders, occasionally restoring monuments and reusing material. Specific claims about exactly which casing blocks went where should be handled cautiously.",
+    "category": "site",
+    "evidence_basis": "Mixed textual and archaeological evidence",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -600,
+    "title": "Late Period burials and revived cults",
+    "description": "New tombs and ritual activities appeared around older sacred places. Some deep shaft systems at Giza have multiple construction or reuse phases, complicating simple single-date labels.",
+    "category": "site",
+    "evidence_basis": "Monuments and reuse phases",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -450,
+    "title": "Herodotus visits Egypt",
+    "description": "Herodotus recorded stories about “Cheops” from people he encountered. His narrative is valuable evidence for Greek-era memory of the pyramids, but it is not a direct Fourth Dynasty eyewitness record.",
+    "category": "rediscovery",
+    "evidence_basis": "Ancient literary testimony; secondhand claims",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": -450,
+    "title": "Herodotus enters the labyrinth",
+    "description": "Herodotus calls the Labyrinth a marvel that surpassed the pyramids. He reports twelve courts and 3,000 chambers—but says he did NOT enter the lower chambers. His description is a historical source, not a modern survey.",
+    "category": "testimony",
+    "evidence_basis": "Ancient written testimony",
+    "scene_effect": "after",
+    "scene_warning": "3,000 rooms and 12 courts are Herodotus’s numbers, not verified room counts. His attribution of construction is also historically problematic.",
+    "human_context": "Egyptian caretakers mediated what the Greek visitor learned. Their accounts and his narration preserve both observation and hearsay.",
+    "why_it_matters": "The story is powerful precisely because we can separate what a witness says he saw from what he heard about spaces he was not allowed to see.",
+    "sources": [
+      {
+        "label": "Herodotus · Histories 2.148 (translated primary text)",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/2b%2A.html"
+      },
+      {
+        "label": "Uytterhoeven & Blom-Böer · Journal of Egyptian Archaeology (2002)",
+        "url": "https://doi.org/10.1177/030751330208800108"
+      },
+      {
+        "label": "UCL · Reconstructive models and their limitations",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/1372/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -332,
+    "title": "Alexander’s conquest and Ptolemaic Egypt",
+    "description": "Macedonian conquest and subsequent Ptolemaic rule transformed Egypt’s political world. The pyramids continued as ancient landmarks within a living Egyptian religious and cultural landscape.",
+    "category": "site",
+    "evidence_basis": "Established political chronology",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": -30,
+    "title": "Egypt becomes a Roman province",
+    "description": "After Cleopatra VII’s defeat, Roman governance began in Egypt. Giza became a classical-era antiquarian and religious destination, not a newly built Roman site.",
+    "category": "site",
+    "evidence_basis": "Established political chronology",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": -30,
+    "title": "Egypt enters the Roman world",
+    "description": "After the end of Ptolemaic rule, Egypt becomes a Roman province. The site’s funerary history continues under new political and artistic traditions.",
+    "category": "physical",
+    "evidence_basis": "Regional historical context",
+    "scene_effect": "roman",
+    "scene_warning": "The change of government did not instantly transform the physical site in 30 BCE.",
+    "human_context": "Egyptian, Greek and Roman cultural practices mingle, without the people of the Fayum losing their local traditions.",
+    "why_it_matters": "One place can belong to several civilizational stories without the earlier story vanishing.",
+    "sources": [
+      {
+        "label": "UCL · Digital Egypt: Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/index.html"
+      },
+      {
+        "label": "UCL · Hawara in the Roman period",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/roman/index.html"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 125,
+    "title": "Faces of Roman Egypt",
+    "description": "Portrait panels painted in vivid, naturalistic styles become part of some mummified burials at Hawara. Their fusion of artistic conventions and Egyptian funerary practice is one of the most moving records of the ancient world.",
+    "category": "physical",
+    "evidence_basis": "Excavated portrait mummies",
+    "scene_effect": "roman",
+    "scene_warning": "Portrait-bearing burials span generations and are not all datable to precisely 125 CE.",
+    "human_context": "People buried here were not merely examples of an artistic style: they were individuals. Clothing, hairstyles, names and burial materials offer imperfect but intimate evidence about their lives.",
+    "why_it_matters": "The most memorable Hawara discovery may be faces—not architecture.",
+    "sources": [
+      {
+        "label": "UCL Petrie Museum · Hawara mummy portraits",
+        "url": "https://www.ucl.ac.uk/engage/museums-collections/petrie-museum-egyptian-and-sudanese-archaeology/top-objects-petrie-museum/hawara-mummy-portraits"
+      },
+      {
+        "label": "UCL · Hawara in the Roman period",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/roman/index.html"
+      },
+      {
+        "label": "UCL · Roman tomb chapels at Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/roman/stelae.html"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 150,
+    "title": "Roman visitors and inscriptions",
+    "description": "Visitors and officials encountered the pyramids and Sphinx as wonders of antiquity. Roman-period activity at the Sphinx is documented, although individual visiting dates and restoration details differ.",
+    "category": "rediscovery",
+    "evidence_basis": "Historical and epigraphic synthesis",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 250,
+    "title": "An active cemetery, not just a legend",
+    "description": "The cemetery around the pyramid includes burials, chapels and diverse funerary goods. Some individuals were buried with painted panels; many were not.",
+    "category": "physical",
+    "evidence_basis": "Excavated cemetery",
+    "scene_effect": "roman",
+    "scene_warning": "The schematic burial symbols do not mark located tombs.",
+    "human_context": "The wider cemetery reflects distinctions of status, custom and identity. Lost excavation context makes some objects difficult to reconnect with their original owners.",
+    "why_it_matters": "Even world-famous portrait panels cannot stand in for the entirety of Hawara’s Roman population.",
+    "sources": [
+      {
+        "label": "UCL · Hawara in the Roman period",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/roman/index.html"
+      },
+      {
+        "label": "UCL · Roman tomb chapels at Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/roman/stelae.html"
+      },
+      {
+        "label": "UCL Petrie Museum · Hawara mummy portraits",
+        "url": "https://www.ucl.ac.uk/engage/museums-collections/petrie-museum-egyptian-and-sudanese-archaeology/top-objects-petrie-museum/hawara-mummy-portraits"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 395,
+    "title": "Late antiquity and an altered landscape",
+    "description": "Over centuries, structures were dismantled, eroded and reused. The labyrinth temple ceased to survive as the elaborate building described by ancient writers.",
+    "category": "physical",
+    "evidence_basis": "Broad historical context",
+    "scene_effect": "ruins",
+    "scene_warning": "No single collapse or dismantling year is established; this marker introduces a gradual phase.",
+    "human_context": "Residents of the region continued to build and live around an evolving landscape. The exact date and sequence of each loss cannot be reconstructed.",
+    "why_it_matters": "A lost wonder was not necessarily destroyed in one dramatic event. Material disappears through many smaller decisions.",
+    "sources": [
+      {
+        "label": "UCL · Reconstructive models and their limitations",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/1372/"
+      },
+      {
+        "label": "Uytterhoeven & Blom-Böer · Journal of Egyptian Archaeology (2002)",
+        "url": "https://doi.org/10.1177/030751330208800108"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 820,
+    "title": "The tunnel traditionally linked to al-Maʾmun",
+    "description": "An entrance tunnel into Khufu’s pyramid is traditionally associated with the Abbasid ruler al-Maʾmun. The date and authorship of the cutting are not securely proven.",
+    "category": "rediscovery",
+    "evidence_basis": "Medieval historical tradition",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1196,
+    "title": "Menkaure: a failed demolition attempt",
+    "description": "Medieval Arabic historians describe an effort under al-Aziz Uthman to dismantle Menkaure’s pyramid. The large scar in the north face is commonly associated with that episode; the narrative’s details require historical caution.",
+    "category": "site",
+    "evidence_basis": "Medieval account and surviving damage",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1303,
+    "title": "Earthquake, stone loss and reuse",
+    "description": "A major medieval earthquake forms part of the history of Cairo and Giza, but no single earthquake accounts for the pyramids’ missing casing. Stone was removed and reused over a long period.",
+    "category": "site",
+    "evidence_basis": "Historical accounts; causal attribution uncertain",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1370,
+    "title": "The Sphinx’s missing nose",
+    "description": "A medieval report attributes damage to the nose to a particular religious figure, but the exact perpetrator and year remain uncertain. Surviving pre-Napoleonic images rule out the popular story that Napoleon’s troops shot it off.",
+    "category": "rediscovery",
+    "evidence_basis": "Historical account; exact dating disputed",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1500,
+    "title": "The pyramids without their original casing",
+    "description": "The Giza pyramids gradually lost much of their fine facing as blocks fell or were removed and reused. Khafre retains a visible upper band of casing; simplified visual changes in the atlas are illustrative.",
+    "category": "site",
+    "evidence_basis": "Long-term change; schematic dates",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1646,
+    "title": "John Greaves measures the Great Pyramid",
+    "description": "English mathematician and traveler John Greaves published Pyramidographia, an early systematic description of the Great Pyramid. His measurements belong to a history of investigation, not a new ancient structure.",
+    "category": "rediscovery",
+    "evidence_basis": "Published historical survey",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1738,
+    "title": "Norden draws the Sphinx",
+    "description": "Frederic Louis Norden’s eighteenth-century drawings help document the already damaged Sphinx well before Napoleon arrived. They are historical images, not precision 3D scans.",
+    "category": "rediscovery",
+    "evidence_basis": "Historical drawings",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1798,
+    "title": "French surveys at Giza",
+    "description": "Napoleon’s expedition brought engineers and scholars whose observations helped document the site. Giza was already long known to Egyptians, earlier travelers and chroniclers.",
+    "category": "rediscovery",
+    "evidence_basis": "Documented expedition",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1818,
+    "title": "Caviglia and Belzoni explore passages",
+    "description": "Giovanni Battista Caviglia carried out intrusive work at the Sphinx and Khufu; Giovanni Belzoni entered Khafre’s pyramid in 1818. Early exploration produced information and damage, sometimes together.",
+    "category": "rediscovery",
+    "evidence_basis": "Historical exploration records",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1837,
+    "title": "Vyse and Perring enter sealed spaces",
+    "description": "Colonel Howard Vyse and John Shae Perring worked at Giza. Vyse’s use of gunpowder exposed relieving chambers above Khufu’s King’s Chamber and quarry marks bearing Khufu’s name.",
+    "category": "rediscovery",
+    "evidence_basis": "Explored spaces and historical excavation records",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1838,
+    "title": "The loss of Menkaure’s sarcophagus",
+    "description": "Menkaure’s basalt sarcophagus was lost at sea aboard the vessel Beatrice while being shipped to Britain. Its fate remains a cautionary story in archaeology’s collecting history.",
+    "category": "rediscovery",
+    "evidence_basis": "Nineteenth-century historical record",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 1843,
+    "title": "Lepsius examines the labyrinth site",
+    "description": "The Prussian expedition of Karl Richard Lepsius investigated Hawara. Later study showed that some remains interpreted as part of the royal temple belonged instead to Roman-period tombs.",
+    "category": "science",
+    "evidence_basis": "History of archaeological study",
+    "scene_effect": "ruins",
+    "scene_warning": "Historical identifications were revised; an early excavation drawing is not sufficient proof of a temple chamber.",
+    "human_context": "Archaeology can correct itself: the same masonry can be reidentified when dating and context improve.",
+    "why_it_matters": "The difference between a monument’s ancient history and the history of how we interpret it becomes visible.",
+    "sources": [
+      {
+        "label": "UCL · Reconstructive models and their limitations",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/1372/"
+      },
+      {
+        "label": "University of Oxford · Hawara excavation archives",
+        "url": "https://egyptartefacts.griffith.ox.ac.uk/node/1119/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1883,
+    "title": "Flinders Petrie’s precision measurements",
+    "description": "Petrie’s survey of Giza raised the standard of metrical observation and documentation. It helped turn general speculation into testable architectural description, while modern survey methods have since improved.",
+    "category": "rediscovery",
+    "evidence_basis": "Published archaeological measurements",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 1888,
+    "title": "Petrie excavates Hawara",
+    "description": "Flinders Petrie explored the pyramid and cemetery in 1888–1889, recovering the remarkable portrait mummies. His work produced discoveries and records, but many objects lost precise contextual information.",
+    "category": "science",
+    "evidence_basis": "Excavation and archival records",
+    "scene_effect": "ruins",
+    "scene_warning": "Do not treat all portrait panels as coming from one known tomb or one year.",
+    "human_context": "Excavations depended on numerous Egyptian workers, whose contributions often received little attention in older publications.",
+    "why_it_matters": "Hawara is a case study in the achievements and the limits of early archaeological methods.",
+    "sources": [
+      {
+        "label": "UCL Petrie Museum · Hawara mummy portraits",
+        "url": "https://www.ucl.ac.uk/engage/museums-collections/petrie-museum-egyptian-and-sudanese-archaeology/top-objects-petrie-museum/hawara-mummy-portraits"
+      },
+      {
+        "label": "University of Oxford · Hawara excavation archives",
+        "url": "https://egyptartefacts.griffith.ox.ac.uk/node/1119/"
+      },
+      {
+        "label": "2022 scholarly history · Petrie at Hawara",
+        "url": "https://doi.org/10.5334/bha-666"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1908,
+    "title": "Reisner excavates Menkaure’s temple",
+    "description": "George Reisner’s fieldwork recovered major sculptural groups from Menkaure’s valley temple, including the famous triads. These finds link monumental architecture to royal imagery and theology.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated sculpture and field records",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1910,
+    "title": "Menkaure and a queen: the paired statue",
+    "description": "The celebrated statue group of Menkaure standing beside a royal woman came from Reisner’s excavations. The woman’s identity is debated, and the artwork should not be treated as a photograph of the couple.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated sculpture; identity interpretation debated",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 1911,
+    "title": "A second campaign; more portraits",
+    "description": "Petrie returned to Hawara in 1910–1911, finding more Roman-period funerary material. Today the objects are distributed across collections, and museums revisit how they were excavated and displayed.",
+    "category": "science",
+    "evidence_basis": "Excavation and collections",
+    "scene_effect": "ruins",
+    "scene_warning": "Descriptions in early excavation publications do not meet all modern recording or ethical standards.",
+    "human_context": "Human remains and funerary portraits raise questions about the identity, dignity and cultural context of the people depicted.",
+    "why_it_matters": "A living knowledge project should link artifacts to the people and excavation histories behind museum labels.",
+    "sources": [
+      {
+        "label": "University of Oxford · Hawara excavation archives",
+        "url": "https://egyptartefacts.griffith.ox.ac.uk/node/1119/"
+      },
+      {
+        "label": "UCL Petrie Museum · Hawara mummy portraits",
+        "url": "https://www.ucl.ac.uk/engage/museums-collections/petrie-museum-egyptian-and-sudanese-archaeology/top-objects-petrie-museum/hawara-mummy-portraits"
+      },
+      {
+        "label": "UCL · Hawara in the Roman period",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/roman/index.html"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1925,
+    "title": "Hetepheres I: a hidden royal shaft",
+    "description": "Reisner’s team found the deep shaft tomb G 7000 X in 1925. Its lavish burial equipment and empty sarcophagus pose complicated questions about burial and reburial; the queen’s family relationships also carry uncertainties.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated tomb and burial equipment",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      },
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1927,
+    "title": "Meresankh III’s painted chapel",
+    "description": "The decorated rock-cut chapel of Meresankh III was uncovered and documented in the 1920s, preserving vibrant scenes of elite life and ritual. The colors remind us that ancient monuments were not originally uniform bare stone.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated painted tomb chapel",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1936,
+    "title": "The Sphinx enclosure is cleared",
+    "description": "Excavations and sand clearance carried out in the 1920s–1930s exposed much more of the Sphinx enclosure. This was a process over years rather than a single 1936 event.",
+    "category": "rediscovery",
+    "evidence_basis": "Recorded modern clearance campaigns",
+    "scene_effect": "Reconstructed physical change",
+    "sources": [
+      {
+        "label": "Egyptian Ministry — The Great Sphinx",
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1954,
+    "title": "Khufu’s dismantled boat is found",
+    "description": "Kamal el-Mallakh discovered a sealed boat pit beside the Great Pyramid. Reconstruction yielded a remarkable cedar boat about 43 meters long, later moved to the Grand Egyptian Museum.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated ancient boat",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "label": "Grand Egyptian Museum — Museum Story",
+        "url": "https://gem.eg/en/about/museum-story"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1970,
+    "title": "Alvarez tests muon scanning at Khafre",
+    "description": "A team led by Luis Alvarez measured cosmic-ray muons at Khafre’s pyramid; the survey did not reveal a new chamber. A negative result is part of the scientific record, not a failure to be omitted.",
+    "category": "evidence",
+    "evidence_basis": "Published instrument survey; null finding",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2023 Nature paper — historical background on Alvarez muon survey",
+        "url": "https://www.nature.com/articles/s41467-023-36351-0"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1979,
+    "title": "UNESCO World Heritage inscription",
+    "description": "Memphis and its Necropolis, including Giza, was inscribed on the UNESCO World Heritage List in 1979. Conservation now concerns a wider cultural landscape of monuments, settlements and vulnerable archaeological deposits.",
+    "category": "rediscovery",
+    "evidence_basis": "Official World Heritage designation",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1988,
+    "title": "The pyramid builders’ settlement emerges",
+    "description": "AERA’s fieldwork south of the Sphinx revealed Heit el-Ghurab: a large Fourth Dynasty settlement with barracks, bakeries, storage, administrative spaces and infrastructure. Excavation started in December 1988.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated settlement and publications",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "AERA — The Lost City of the Pyramid Builders",
+        "url": "https://aeraweb.org/projects/lost-city/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1990,
+    "title": "The workers’ cemetery",
+    "description": "Discovery and study of workers’ burials challenged the simplistic image of anonymous enslaved masses. Skeletal stress and healed injuries reveal demanding work; their exact legal and employment statuses were diverse and cannot be established for every worker.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated burials; social interpretation",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "AERA — The Lost City of the Pyramid Builders",
+        "url": "https://aeraweb.org/projects/lost-city/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1993,
+    "title": "Robots examine Khufu’s shafts",
+    "description": "Rudolf Gantenbrink’s Upuaut robot investigated shafts extending from the Queen’s Chamber. It revealed features inaccessible to human visitors but did not prove a secret library or ceremonial chamber.",
+    "category": "evidence",
+    "evidence_basis": "Robot photography and mapping",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Digital Giza — Introduction to Giza",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 1999,
+    "title": "The Osiris Shaft: excavation and dating",
+    "description": "Modern investigations documented a multi-level underground complex near Khafre’s causeway. Its phases and interpretations are not equivalent to a confirmed Fourth Dynasty secret tunnel network.",
+    "category": "rediscovery",
+    "evidence_basis": "Excavated and explored spaces; phases debated",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "Oxford Handbook — Art and Archaeology of Giza",
+        "url": "https://academic.oup.com/edited-volume/43506/chapter/364132852"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 2000,
+    "title": "A survey recovers new clues",
+    "description": "A KU Leuven survey finds further evidence amid the scant remains, including two Middle Kingdom sculptures probably related to earlier recorded objects.",
+    "category": "science",
+    "evidence_basis": "Published survey findings",
+    "scene_effect": "ruins",
+    "scene_warning": "The sculptures do not verify Herodotus’s chamber totals or a precise underground labyrinth plan.",
+    "human_context": "Research teams now revisit old excavations, combine archives with on-site observations, and treat uncertainty as part of the record.",
+    "why_it_matters": "The landscape is not fully known, even when the spectacular temple buildings have vanished.",
+    "sources": [
+      {
+        "label": "Uytterhoeven & Blom-Böer · Journal of Egyptian Archaeology (2002)",
+        "url": "https://doi.org/10.1177/030751330208800108"
+      },
+      {
+        "label": "Survey article (2002) · Hawara remains",
+        "url": "https://journals.sagepub.com/doi/10.1177/030751330208800108"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 2002,
+    "title": "New light, not a recovered blueprint",
+    "description": "Researchers publish their new Hawara findings in the Journal of Egyptian Archaeology. A much richer interpretation of the temple survives than the physical buildings themselves.",
+    "category": "science",
+    "evidence_basis": "Peer-reviewed publication",
+    "scene_effect": "ruins",
+    "scene_warning": "An interpretation is not a measured plan; reconstruction remains provisional.",
+    "human_context": "Knowledge grows through documented revisions, source criticism and open questions—not by filling the blank space with confident inventions.",
+    "why_it_matters": "The atlas can visualize the difference between a likely temple location and a room-by-room archaeological plan.",
+    "sources": [
+      {
+        "label": "Uytterhoeven & Blom-Böer · Journal of Egyptian Archaeology (2002)",
+        "url": "https://doi.org/10.1177/030751330208800108"
+      },
+      {
+        "label": "UCL · Reconstructive models and their limitations",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/1372/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2013,
+    "title": "Merer’s logbooks found at Wadi al-Jarf",
+    "description": "The Wadi al-Jarf papyri preserve daily records from a team delivering limestone to Khufu’s complex. These are extraordinary contemporary documents for logistics and administration, but do not enumerate the full workforce.",
+    "category": "rediscovery",
+    "evidence_basis": "Ancient written record found in modern excavation",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "University of Chicago — Merer and Giza logistics",
+        "url": "https://oi.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/Annual-Reports/Annual-Report-2016-17.pdf"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2015,
+    "title": "ScanPyramids begins",
+    "description": "A non-invasive campaign combined thermal imaging, muon detection and other measurement techniques to investigate pyramid structures. Techniques have different strengths and limitations; anomalies need interpretation and independent confirmation.",
+    "category": "evidence",
+    "evidence_basis": "Research project and instrument methodology",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "2017 Big Void discovery (Nature)",
+        "url": "https://www.nature.com/articles/nature24647"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2017,
+    "title": "The Big Void: muons detect an empty region",
+    "description": "Three independent muon measurement technologies found evidence for a void at least about 30 meters long above Khufu’s Grand Gallery. Its purpose and access remain unknown; it has not been explored directly.",
+    "category": "evidence",
+    "evidence_basis": "Peer-reviewed instrument detection",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2017 Big Void discovery (Nature)",
+        "url": "https://www.nature.com/articles/nature24647"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2022,
+    "title": "The Khufu branch of the Nile reconstructed",
+    "description": "Sediment and pollen research traced ancient waterscapes and provided evidence for a navigable branch of the Nile near the pyramids during their construction. The precise harbors and connections remain active research questions.",
+    "category": "evidence",
+    "evidence_basis": "Peer-reviewed paleoenvironmental study",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2022 Nile waterscapes paper (PNAS)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9477388/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2023,
+    "title": "The North Face Corridor is inspected",
+    "description": "Measurements and an endoscopic camera confirmed a roughly nine-meter-long corridor behind the chevron blocks on Khufu’s north face. A confirmed corridor is not evidence of a hidden city underneath the plateau.",
+    "category": "evidence",
+    "evidence_basis": "Non-invasive detection plus direct visual inspection",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2023 North Face Corridor — ScanPyramids (Nature Communications)",
+        "url": "https://www.nature.com/articles/s41467-023-36351-0"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2024.02,
+    "title": "The buried Ahramat Nile Branch mapped",
+    "description": "Satellite radar, coring and geophysics identified portions of an extinct Nile channel stretching along many pyramid fields. This is a regional riverscape finding, not a claim that every causeway endpoint has been fully excavated.",
+    "category": "evidence",
+    "evidence_basis": "Peer-reviewed geomorphological interpretation",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2024 Ahramat Nile Branch (Communications Earth & Environment)",
+        "url": "https://www.nature.com/articles/s43247-024-01379-7"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2024.12,
+    "title": "Western Cemetery geophysical anomaly",
+    "description": "Ground-penetrating radar and resistivity measurements found a shallow L-shaped anomaly and deeper resistive response. Neither instrument established its function or whether an accessible chamber exists.",
+    "category": "evidence",
+    "evidence_basis": "Peer-reviewed geophysical anomaly; function unknown",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2024 Western Cemetery survey (Archaeological Prospection)",
+        "url": "https://doi.org/10.1002/arp.1940"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2024.27,
+    "title": "Menkaure’s granite re-casing debate",
+    "description": "A proposal to reinstall detached granite blocks on Menkaure’s pyramid prompted a major conservation debate and was not adopted as proposed. Authenticity, reversibility and evidence matter when restoring ancient surfaces.",
+    "category": "rediscovery",
+    "evidence_basis": "Conservation debate; administrative decision",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "UNESCO — Memphis and Its Necropolis",
+        "url": "https://whc.unesco.org/en/list/86"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 2025,
+    "title": "Radar interpretations: an unresolved claim",
+    "description": "A 2025 paper interprets space-based radar responses as possibly indicating a large underground structure. This is not a verified excavation of the labyrinth, and the proposed reading requires independent validation.",
+    "category": "science",
+    "evidence_basis": "Unverified interpretation",
+    "scene_effect": "ruins",
+    "scene_warning": "Neither room counts nor a newly accessible underground maze are established by this paper.",
+    "human_context": "Scientific curiosity and restraint can coexist: interesting anomalies invite testing, not instant certainty.",
+    "why_it_matters": "Evidence thresholds matter especially at famous sites where an exciting image can travel faster than the supporting data.",
+    "sources": [
+      {
+        "label": "2025 SAR interpretation · Journal of Scientific Exploration",
+        "url": "https://doi.org/10.31275/20253579"
+      },
+      {
+        "label": "Uytterhoeven & Blom-Böer · Journal of Egyptian Archaeology (2002)",
+        "url": "https://doi.org/10.1177/030751330208800108"
+      },
+      {
+        "label": "University of York · Hawara preservation and reconstruction",
+        "url": "https://pure.york.ac.uk/portal/en/projects/labyrinth-conservation-analysis-and-virtual-reconstruction-of-arc/"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2025.12,
+    "title": "Two anomalies behind Menkaure’s east face",
+    "description": "Researchers combined electrical resistivity, ultrasound and ground-penetrating radar and reported two air-filled anomalies behind Menkaure’s polished east-facing granite. A possible new entrance is a hypothesis, not an excavated doorway.",
+    "category": "evidence",
+    "evidence_basis": "Peer-reviewed instrument detection; entrance hypothetical",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2025 Menkaure anomalies — Technical University of Munich",
+        "url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/detection-of-air-filled-anomalies-in-menkaure-pyramid-could-indicate-new-entrance"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2025.35,
+    "title": "Grand Egyptian Museum fully opens",
+    "description": "The Grand Egyptian Museum officially opened in November 2025. Khufu’s restored boat and many objects from ancient Egypt enter a major modern conservation and interpretation setting close to Giza.",
+    "category": "rediscovery",
+    "evidence_basis": "Museum institutional record",
+    "scene_effect": "Context only",
+    "sources": [
+      {
+        "label": "Grand Egyptian Museum — Museum Story",
+        "url": "https://gem.eg/en/about/museum-story"
+      }
+    ]
+  },
+  {
+    "site_id": "giza",
+    "year": 2026,
+    "title": "A satellite-radar claim is retracted",
+    "description": "In August 2026 the journal Remote Sensing retracted a 2022 radar paper on alleged hidden structures at Khufu, citing serious methodological and statistical problems. That decision does not invalidate the independent peer-reviewed muon detections of 2017 and subsequent corridor inspections.",
+    "category": "evidence",
+    "evidence_basis": "Documented journal retraction; scientific evaluation",
+    "scene_effect": "Discovery, no ancient geometry change",
+    "sources": [
+      {
+        "label": "2026 journal retraction notice (Remote Sensing)",
+        "url": "https://doi.org/10.3390/rs18162679"
+      },
+      {
+        "label": "2017 Big Void discovery (Nature)",
+        "url": "https://www.nature.com/articles/nature24647"
+      }
+    ]
+  },
+  {
+    "site_id": "hawara",
+    "year": 2026,
+    "title": "The site today: preserve what remains",
+    "description": "The pyramid, funerary remains and largely vanished temple are a conservation challenge. Groundwater and modern land use affect their long-term survival. The living archive can distinguish what can be visited from what can only be imagined.",
+    "category": "science",
+    "evidence_basis": "Documented conservation concern",
+    "scene_effect": "ruins",
+    "scene_warning": "The conservation issue is ongoing, not a claim of a specific newly announced 2026 excavation.",
+    "human_context": "Egyptian conservators, archaeologists, communities and institutions are stakeholders in how the site is interpreted and preserved.",
+    "why_it_matters": "Preservation is the next chapter of any wonder—part of its history, not an afterthought.",
+    "sources": [
+      {
+        "label": "University of York · Hawara preservation and reconstruction",
+        "url": "https://pure.york.ac.uk/portal/en/projects/labyrinth-conservation-analysis-and-virtual-reconstruction-of-arc/"
+      },
+      {
+        "label": "UCL · Digital Egypt: Hawara",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/index.html"
+      },
+      {
+        "label": "Uytterhoeven & Blom-Böer · Journal of Egyptian Archaeology (2002)",
+        "url": "https://doi.org/10.1177/030751330208800108"
+      }
+    ]
+  }
+]

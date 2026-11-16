@@ -1,0 +1,73 @@
+/* The Timeportal: an immersive but completely offline 3D + time experience. */
+.timeportal{position:fixed;inset:0;z-index:120;display:none;background:#06131b;color:#e9efeb;overflow:hidden;font-family:Inter,'Segoe UI',system-ui,sans-serif}
+.timeportal.open{display:block}
+.tp-shell{height:100%;width:100%;display:flex;flex-direction:column;min-width:0;overflow:hidden;background:radial-gradient(ellipse at 52% 50%,#17353c,#06151e 78%)}
+.tp-header{flex:none;display:flex;align-items:center;justify-content:space-between;gap:18px;height:80px;padding:0 clamp(18px,3vw,48px);border-bottom:1px solid #b1cbc531;background:#071c23ea}
+.tp-brand{font:27px Georgia,serif;letter-spacing:-.045em;color:#eee5d3;white-space:nowrap}.tp-brand b{color:#edbe77;font-weight:400}.tp-brand small{display:block;font:9px Inter,system-ui,sans-serif;letter-spacing:.2em;color:#95aaae;margin-top:3px;text-transform:uppercase}
+.tp-centerhead{display:flex;flex-direction:column;align-items:center;min-width:0;text-align:center}
+.tp-topline{color:#ebc38b;font-size:9px;letter-spacing:.23em;font-weight:800;text-transform:uppercase}
+.tp-hname{font:clamp(19px,2vw,30px) Georgia,serif;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:min(44vw,700px);letter-spacing:-.035em}
+.tp-close{border:1px solid #6e9a9b8a;color:#deebe8;background:#12323b;border-radius:99px;padding:10px 16px;white-space:nowrap;font-size:12px;font-weight:650}
+.tp-close:hover,.tp-tool:hover{background:#214650;border-color:#e9bc72;color:#fff}
+.tp-grid{flex:1;display:grid;grid-template-columns:minmax(215px,255px) minmax(360px,1fr) minmax(230px,260px);min-height:0}
+.tp-left,.tp-right{padding:27px clamp(15px,2vw,29px);background:#09212acb;min-width:0;overflow-y:auto;scrollbar-width:thin;scrollbar-color:#46676b transparent}
+.tp-left{border-right:1px solid #63808241;display:flex;flex-direction:column;gap:16px}
+.tp-right{border-left:1px solid #63808241;display:flex;flex-direction:column;gap:16px}
+.tp-label{color:#e9bf83;font-size:10px;letter-spacing:.16em;text-transform:uppercase;font-weight:800}
+.tp-subtitle{font:22px/1.16 Georgia,serif;letter-spacing:-.03em;color:#f0e4d3;margin:0}
+.tp-muted{color:#aec5c7;font-size:12px;line-height:1.75}
+.tp-muted b{color:#f1dcc0}
+.tp-sep{height:1px;background:#7091934b;flex:none}
+.tp-kicker{display:inline-flex;gap:7px;align-items:center;padding:6px 9px;background:#dfb26c15;border:1px solid #dfb26c55;color:#ebc890;border-radius:6px;font-size:9px;letter-spacing:.08em;text-transform:uppercase;width:max-content;max-width:100%}
+.tp-evidence{border-left:2px solid #e3bc7a;padding-left:12px;color:#bbcbd0;font-size:11px;line-height:1.65}
+.tp-source{display:inline-flex;color:#dce3d8;font-size:11px;border:1px solid #66878d87;padding:9px 12px;border-radius:8px;text-decoration:none;align-self:flex-start}
+.tp-source:hover{color:#f8d99b;border-color:#f8d99b}
+.tp-next{margin-top:auto;display:flex;gap:8px;align-items:center;justify-content:center;background:#b4935a25;border:1px solid #d2b37d6a;border-radius:9px;padding:11px 13px;font-weight:650;font-size:12px;text-align:center}
+.tp-next:hover{background:#b4935a4a}
+.tp-render{position:relative;min-height:0;min-width:0;overflow:hidden;isolation:isolate;background:#172f38}
+.tp-render canvas{display:block;width:100%;height:100%;touch-action:none;cursor:grab;outline:0}.tp-render canvas:active{cursor:grabbing}
+.tp-imagebar{position:absolute;top:24px;left:26px;right:26px;display:flex;justify-content:space-between;gap:10px;pointer-events:none}
+.tp-imagebar div{color:#ecddc2;font:10px ui-monospace,monospace;letter-spacing:.15em;text-shadow:0 1px 8px #001}
+.tp-imagebar .tp-live{padding:5px 10px;background:#0c2632b0;border:1px solid #bed0bc45;border-radius:4px;color:#9de2d7}
+.tp-toolrow{position:absolute;right:17px;bottom:16px;display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;max-width:80%}
+.tp-tool{background:#0b2732d9;border:1px solid #5c8288a8;border-radius:8px;padding:8px 11px;color:#dfe8e4;font-size:11px;backdrop-filter:blur(12px)}
+.tp-watermark{position:absolute;top:49px;left:26px;font:11px ui-monospace,monospace;color:#f4d09d9e;letter-spacing:.045em;pointer-events:none}
+.tp-phase-title{font:26px/1.15 Georgia,serif;color:#f1e2c8;letter-spacing:-.035em;margin:0}
+.tp-story{font-size:12px;color:#b7cbce;line-height:1.77;margin:0}
+.tp-chapter{color:#9eb8b4;font:11px ui-monospace,monospace;letter-spacing:.13em}
+.tp-stages{display:grid;gap:8px}
+.tp-stages button{text-align:left;display:flex;flex-direction:column;gap:5px;background:#0b2a34;border:1px solid #7293973d;border-radius:11px;padding:14px;color:#cbd9d4;position:relative}
+.tp-stages button:hover{border-color:#edc28b9c;background:#143640}
+.tp-stages button.active{border-color:#edc28b;background:#9a794129;box-shadow:inset 2px 0 #ecc27d}
+.tp-stages button span{font:10px ui-monospace,monospace;color:#e4c08a}
+.tp-stages button strong{font-size:12px;font-weight:650}
+.tp-footer{flex:none;border-top:1px solid #72908c55;background:#061c25ee;display:grid;grid-template-columns:230px minmax(0,1fr) 230px;align-items:center;gap:20px;min-height:118px;padding:12px clamp(18px,3vw,47px)}
+.tp-play{background:#e9be79;border:1px solid #e9be79;color:#13242a;font-weight:800;font-size:11px;letter-spacing:.065em;padding:14px 17px;border-radius:9px;width:100%}.tp-play:hover{background:#f6d398}
+.tp-timeline{min-width:0;display:flex;flex-direction:column;gap:9px}
+.tp-timestamp{display:flex;justify-content:space-between;align-items:center;gap:8px}.tp-timestamp span{font-size:10px;letter-spacing:.18em;color:#94afb4;text-transform:uppercase}.tp-timestamp strong{font:22px Georgia,serif;color:#f2c989}
+.tp-range{width:100%;accent-color:#e9bd79;cursor:pointer;min-height:23px}
+.tp-range-ticks{display:flex;justify-content:space-between;font:10px ui-monospace,monospace;color:#a3bfc0}
+.tp-clocknote{font-size:10px;color:#879fa1;text-align:right;line-height:1.55}
+.tp-clocknote strong{display:block;color:#dcbf91;margin-bottom:4px}
+.tp-controls-mobile{display:none}
+@media(max-width:1100px){.tp-grid{grid-template-columns:210px minmax(340px,1fr) 220px}.tp-footer{grid-template-columns:165px minmax(0,1fr) 170px;gap:10px}}
+@media(max-width:800px){.tp-header{height:65px;padding:0 14px}.tp-brand{font-size:22px}.tp-hname{font-size:20px;max-width:45vw}.tp-grid{display:flex;flex-direction:column;overflow-y:auto;overflow-x:hidden;scrollbar-width:thin}.tp-render{order:0;height:43vh;min-height:300px;flex:none}.tp-left{order:1;padding:18px;gap:10px;overflow:visible;border:0;border-top:1px solid #6b8d8d47}.tp-right{order:2;padding:15px 18px 20px;overflow:visible;border:0;border-top:1px solid #6b8d8d47}.tp-right .tp-stages{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.tp-stages button{padding:10px 8px;min-height:68px}.tp-stages button span{font-size:9px}.tp-stages button strong{font-size:11px;line-height:1.25}.tp-left .tp-sep,.tp-next{display:none}.tp-footer{min-height:110px;grid-template-columns:108px minmax(0,1fr);padding:11px 15px;gap:12px}.tp-clocknote{display:none}.tp-play{padding:14px 7px}.tp-imagebar{top:15px;left:18px;right:18px}.tp-watermark{top:40px;left:18px}.tp-toolrow{right:12px;bottom:12px}.tp-tool{padding:8px}.tp-muted{font-size:11px}}
+@media(max-width:430px){.tp-brand small{font-size:7px}.tp-brand{font-size:20px}.tp-header{gap:7px}.tp-hname{font-size:17px;max-width:40vw}.tp-close{font-size:11px;padding:8px 10px}.tp-topline{font-size:8px}.tp-render{height:38vh;min-height:260px}.tp-imagebar div{font-size:8px}.tp-imagebar{left:12px;right:12px}.tp-watermark{left:12px;font-size:9px}.tp-toolrow{gap:5px}.tp-tool{font-size:10px;padding:7px}.tp-timestamp strong{font-size:18px}.tp-timestamp span{font-size:8px}.tp-range-ticks{font-size:8px}.tp-footer{grid-template-columns:94px minmax(0,1fr)}.tp-play{font-size:10px}}
+@media(prefers-reduced-motion:reduce){.timeportal *{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+
+/* V3: evidence-labelled, time-scoped civilization HUD */
+.tp-hud{position:absolute;left:22px;bottom:19px;width:min(310px,47%);padding:12px 14px;background:linear-gradient(125deg,#061e29ed,#0a3138d4);border:1px solid #bfcca65e;border-radius:11px;box-shadow:0 12px 32px #04111b79;pointer-events:none;backdrop-filter:blur(9px)}
+.tp-hud-heading{font:9px ui-monospace,monospace;color:#f0ca90;letter-spacing:.11em;display:flex;align-items:center;gap:7px;margin-bottom:11px}
+.tp-hud-dot{width:6px;height:6px;background:#98ddcf;border-radius:50%;box-shadow:0 0 0 3px #98ddcf27}
+.tp-hud-grid{display:grid;grid-template-columns:1fr 1fr;gap:11px 13px}
+.tp-hud-grid>div:nth-child(3){grid-column:1/-1}
+.tp-hud-grid span{display:block;color:#87aeb3;font:9px ui-monospace,monospace;letter-spacing:.12em;margin-bottom:4px}
+.tp-hud-grid strong{display:block;color:#e7eddf;font-size:13px;font-weight:650;line-height:1.28;overflow-wrap:anywhere}
+.tp-hud-grid>div:first-child strong{font:22px Georgia,serif;color:#f0d0a0;letter-spacing:-.03em}
+.tp-hud-scope{margin-top:9px;border-top:1px solid #8ba9ac4f;padding-top:8px;color:#a6bbc0;font:10px/1.35 ui-monospace,monospace}
+.tp-culture-panel{border-top:1px solid #72908c55;padding-top:17px;display:flex;flex-direction:column;gap:10px}
+.tp-culture-panel dl{margin:0;display:grid;gap:11px}.tp-culture-panel dt{color:#99b7b5;font:10px ui-monospace,monospace;text-transform:uppercase;letter-spacing:.08em}.tp-culture-panel dd{color:#e0e7db;font-size:12px;line-height:1.52;margin:4px 0 0}
+.tp-culture-panel p{color:#a5bdc1;font-size:11px;line-height:1.55;margin:0}.tp-culture-panel a{font-size:11px;color:#ecc78e;text-underline-offset:3px}
+.tp-hud .tp-hud-scope{overflow-wrap:break-word}
+@media(max-width:800px){.tp-hud{width:min(270px,66%);padding:8px 10px;left:10px;bottom:8px}.tp-hud-heading{font-size:8px;margin-bottom:7px}.tp-hud-grid{gap:6px}.tp-hud-grid span{font-size:8px;margin-bottom:2px}.tp-hud-grid strong{font-size:11px}.tp-hud-grid>div:first-child strong{font-size:17px}.tp-hud-scope{font-size:8px;margin-top:6px;padding-top:5px}.tp-toolrow{bottom:10px;right:8px;flex-direction:column;max-width:29%}.tp-tool{padding:6px 8px}}
+@media(max-width:430px){.tp-hud{width:61%;bottom:6px}.tp-hud-grid>div:nth-child(3){display:none}.tp-hud-scope{max-height:27px;overflow:hidden}.tp-toolrow{gap:4px}}

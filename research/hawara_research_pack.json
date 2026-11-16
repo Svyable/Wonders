@@ -1,0 +1,829 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-11-15",
+  "title": "Hawara Egyptian Labyrinth — Research and Timeline Pack",
+  "scope": "Hawara/Faiyum, not tunnels under Giza",
+  "site": {
+    "id": "hawara",
+    "name": "Hawara Pyramid and Labyrinth precinct",
+    "place": "Hawara, Faiyum Governorate, Egypt",
+    "anchor_approx": {
+      "latitude": 29.2742,
+      "longitude": 30.8992
+    },
+    "associated_monument": "Pyramid of Amenemhat III",
+    "dating_note": "19th century BCE; exact construction phases vary by chronology",
+    "area_note": "~120 × 300 m cult precinct cited by University of Leeds, not an excavated room-by-room plan"
+  },
+  "evidence_classes": {
+    "archaeologically_attested": "gold",
+    "historically_documented": "gold",
+    "scientifically_measured": "gold",
+    "historical_reconstruction": "gold_with_uncertainty",
+    "archaeological_interpretation": "gold_with_uncertainty",
+    "primary_text_report": "violet_textual_testimony",
+    "ancient_secondary_account": "violet_textual_testimony",
+    "documented_context": "gold_with_uncertainty",
+    "instrument_measured_anomaly": "cyan_anomaly_only",
+    "instrument_measured_environment": "cyan_hydrology",
+    "published_hypothesis": "violet",
+    "unsupported_claim": "violet_off_by_default",
+    "unsupported_reconstruction": "violet_off_by_default",
+    "contemporary_news_confirmed": "gold_research_activity",
+    "academically_documented": "gold_point_cloud",
+    "scholarly_geophysics": "cyan",
+    "institutional_report": "gold_source"
+  },
+  "critical_model_rules": [
+    "The Labyrinth is a distinct Faiyum site separate from Giza.",
+    "Separate actual monumental remains from historically reconstructed rooms.",
+    "The 3,000 rooms and 1,500 underground rooms are Herodotus reports, not measured data.",
+    "A scan amplitude/contrast anomaly is not a chamber, and modeled survey depths are not proven room floors.",
+    "Do not display proprietary satellite claims as confirmed structure geometry.",
+    "Do not imply archaeological discoveries in 2010 or 2025 mean the buildings came into existence in those years.",
+    "No publicly validated exact labyrinth room plan; do not interpolate a walkable true interior from scans.",
+    "Digital reconstructions need creators rights/permissions prior to embedding assets.",
+    "Water depth values depend on survey year, surface elevation and method."
+  ],
+  "scans": [
+    {
+      "id": "water2007",
+      "title": "Groundwater isotope and chemistry investigation",
+      "fieldwork": "pre-2007",
+      "published": 2007,
+      "method": [
+        "water sampling",
+        "stable isotope",
+        "chemistry"
+      ],
+      "extent": "Pyramid and regional water sources",
+      "observation": "Canal-related saline water ingress and salt damage",
+      "limit": "Not architectural detection",
+      "evidence": "scientifically_measured",
+      "sources": [
+        "water2007"
+      ]
+    },
+    {
+      "id": "nriag2008",
+      "title": "NRIAG Hawara geophysics report",
+      "fieldwork": "2008",
+      "published": 2008,
+      "method": [
+        "soil conductivity",
+        "VLF",
+        "TEM",
+        "ERT",
+        "GPR",
+        "geomagnetism (proposed/integrated)"
+      ],
+      "extent": "Pyramid and southern temple precinct",
+      "observation": "The available April report chiefly documents background, goals and proposed techniques",
+      "limit": "Do not conflate its list of proposed methods with confirmed executed scans or validated chambers",
+      "evidence": "institutional_report",
+      "sources": [
+        "nriag"
+      ]
+    },
+    {
+      "id": "vlf2010",
+      "title": "VLF-EM and vertical electrical sounding",
+      "fieldwork": "2008 (reported)",
+      "published": 2010,
+      "method": [
+        "75 VLF-EM profiles",
+        "nine Schlumberger VES",
+        "2D/3D resistivity inversions"
+      ],
+      "extent": "100 × 140 m south of pyramid, 2 m spacing",
+      "observation": "Linear and square conductivity anomalies; published pseudosections at ~4 and 8 m plus 3, 5, 12 m slices",
+      "limit": "Anomalies could also reflect geology, water or other remains; no excavated/validated 3D floorplan",
+      "evidence": "peer_reviewed_anomaly",
+      "sources": [
+        "vlf2010"
+      ]
+    },
+    {
+      "id": "tem2010",
+      "title": "TEM and GEM hydrological survey",
+      "fieldwork": "before publication 2010",
+      "published": 2010,
+      "method": [
+        "74 TEM stations",
+        "GEM 100×150m grid"
+      ],
+      "extent": "Temple precinct, pyramid and eastern cultivated lands",
+      "observation": "Groundwater generally ~2–7 m below ground in study; irrigation supplies water",
+      "limit": "Conductivity maps do not count rooms, artifacts or depth of entire labyrinth",
+      "evidence": "peer_reviewed_water_mapping",
+      "sources": [
+        "tem2010"
+      ]
+    },
+    {
+      "id": "gpr2015",
+      "title": "Hawara GPR geological study",
+      "fieldwork": "unspecified; cores 2002 and 2008",
+      "published": 2015,
+      "method": [
+        "100 MHz and multifrequency GPR",
+        "drilling/geology"
+      ],
+      "extent": "Pyramid perimeter and southern/eastern areas",
+      "observation": "Radar sections to ~20 m, possible wall-like features and groundwater pathways",
+      "limit": "Author explicitly states findings do not establish Herodotus’s labyrinth",
+      "evidence": "scholarly_anomaly",
+      "sources": [
+        "gpr2015"
+      ]
+    },
+    {
+      "id": "geoscan2015",
+      "title": "GeoScan/Boulter satellite imagery interpretation",
+      "fieldwork": "2014–2015 claimed",
+      "published": null,
+      "method": [
+        "proprietary satellite interpretation (claimed)"
+      ],
+      "extent": "Alleged deep levels",
+      "observation": "Advocacy images depict separate flooded and dry levels",
+      "limit": "No independent validation, survey coordinates, depth calibration or raw method found",
+      "evidence": "unverified_claim",
+      "sources": [
+        "arf"
+      ]
+    },
+    {
+      "id": "merlin2015",
+      "title": "Merlin Burrows / Akers satellite claims",
+      "fieldwork": "2015 claimed",
+      "published": null,
+      "method": [
+        "proprietary satellite analysis (claimed)"
+      ],
+      "extent": "Alleged very deep labyrinth",
+      "observation": "Advocates claim deep chambers, boats and metallic item",
+      "limit": "No reproducible peer-reviewed floor plan, excavated confirmation, or publicly validated deep-penetration measurement",
+      "evidence": "unverified_claim",
+      "sources": [
+        "arf"
+      ]
+    },
+    {
+      "id": "virtual2020",
+      "title": "Virtual Hawara terrestrial laser scan and GIS",
+      "fieldwork": "2018–2022 project",
+      "published": null,
+      "method": [
+        "Trimble TX6 laser scanning",
+        "aerial/ground survey",
+        "GIS"
+      ],
+      "extent": "Visible pyramid and landscape",
+      "observation": "Georeferenced 3D point cloud of surface conditions and modeled reconstruction",
+      "limit": "Reconstructions of vanished rooms are interpretations, not scans of intact underground labyrinth",
+      "evidence": "academic_digital_survey",
+      "sources": [
+        "leeds",
+        "virtual_model"
+      ]
+    },
+    {
+      "id": "sar2025",
+      "title": "Carlotto ALOS PALSAR and Sentinel-1 SAR analysis",
+      "fieldwork": "archival satellite imagery, paper published 2025",
+      "published": 2025,
+      "method": [
+        "L-band and C-band SAR",
+        "cross-sensor optical comparison"
+      ],
+      "extent": "Either side of modern canal, south of pyramid",
+      "observation": "Unusual radar/optical discrepancies interpreted as possibly related to subsurface features",
+      "limit": "Indirect hypothesis; no independently verified deep-tunnel tomography or chamber count; satellite SAR not interchangeable with conventional on-site GPR",
+      "evidence": "published_but_disputed_interpretation",
+      "sources": [
+        "sar2025"
+      ]
+    },
+    {
+      "id": "hawara2026",
+      "title": "Resumed excavation",
+      "fieldwork": "2026",
+      "published": 2026,
+      "method": [
+        "archaeological excavation"
+      ],
+      "extent": "Hawara site",
+      "observation": "Officially supervised fieldwork reported 7 May 2026",
+      "limit": "No verified publication supplied with a mapped labyrinth interior or secure context for large wall claim",
+      "evidence": "reported_fieldwork",
+      "sources": [
+        "dig2026",
+        "arf"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "middle_kingdom_fayum",
+      "site_id": "hawara",
+      "year": -1900,
+      "year_end": null,
+      "date_precision": "century",
+      "title": "Faiyum before the Labyrinth",
+      "topic": "environment",
+      "evidence_class": "documented_context",
+      "summary": "Middle Kingdom rulers intensify projects in the Faiyum; the Hawara site belongs to this regional landscape.",
+      "visualization": "Context map showing Nile-Faiyum corridor and settlements; do not assign precise canal works to one ruler.",
+      "source_ids": [
+        "virtual_history",
+        "leeds"
+      ]
+    },
+    {
+      "id": "amenemhat_reign",
+      "site_id": "hawara",
+      "year": -1855,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Amenemhat III takes the throne",
+      "topic": "royal_history",
+      "evidence_class": "historical_reconstruction",
+      "summary": "The ruler associated with Hawara is Amenemhat III of Dynasty 12. Regnal chronologies differ.",
+      "visualization": "Show dynasty and ruler card.",
+      "source_ids": [
+        "virtual_history",
+        "leeds"
+      ]
+    },
+    {
+      "id": "dahshur_before_hawara",
+      "site_id": "hawara",
+      "year": -1850,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "The earlier Dahshur pyramid",
+      "topic": "construction_context",
+      "evidence_class": "archaeological_interpretation",
+      "summary": "Amenemhat III also built the Black Pyramid at Dahshur, likely preceding the Hawara complex. Reasons for shifting focus require careful wording.",
+      "visualization": "Optional off-site comparison inset, not a building at Hawara.",
+      "source_ids": [
+        "virtual_history"
+      ]
+    },
+    {
+      "id": "hawara_foundation",
+      "site_id": "hawara",
+      "year": -1840,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Building begins at Hawara",
+      "topic": "construction",
+      "evidence_class": "archaeological_interpretation",
+      "summary": "A geophysical paper cites an estimated beginning around Amenemhat III regnal year 15; do not present 1840 BCE as a documented exact date.",
+      "visualization": "Fade in pyramid footprint and quarry/construction zone.",
+      "source_ids": [
+        "vlf2010",
+        "virtual_history"
+      ]
+    },
+    {
+      "id": "hawara_labyrinth_build",
+      "site_id": "hawara",
+      "year": -1830,
+      "year_end": -1810,
+      "date_precision": "broad_range",
+      "title": "The cult temple complex rises",
+      "topic": "construction",
+      "evidence_class": "archaeological_interpretation",
+      "summary": "The large temple south of the pyramid, often identified with the Labyrinth, likely dates to the latter part of Amenemhat III reign. Its detailed plan remains unknown.",
+      "visualization": "Build a simplified 120×300 m conceptual mass with alternate-plan toggle and visible speculative label.",
+      "source_ids": [
+        "leeds",
+        "virtual_history",
+        "leuven"
+      ]
+    },
+    {
+      "id": "hawara_pyramid_burial",
+      "site_id": "hawara",
+      "year": -1810,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Royal burial and cult",
+      "topic": "ritual",
+      "evidence_class": "archaeological_interpretation",
+      "summary": "Mudbrick pyramid with stone passages and burial chamber, adjoining royal cult zone; details of exact interment and rituals should not be animated as known eyewitness scenes.",
+      "visualization": "Show confirmed pyramid and idealized casing plus clearly flagged hypothetical ritual activity.",
+      "source_ids": [
+        "leeds",
+        "ucl_site",
+        "virtual_history"
+      ]
+    },
+    {
+      "id": "middle_kingdom_reuse",
+      "site_id": "hawara",
+      "year": -1750,
+      "year_end": -1600,
+      "date_precision": "broad_range",
+      "title": "The cemetery around Hawara",
+      "topic": "burial",
+      "evidence_class": "archaeologically_attested",
+      "summary": "The site includes Late Middle Kingdom graves and later reuse, not only the royal complex.",
+      "visualization": "Cemetery markers, dated by excavation contexts rather than interpolated exact years.",
+      "source_ids": [
+        "ucl_site"
+      ]
+    },
+    {
+      "id": "cult_longlife",
+      "site_id": "hawara",
+      "year": -800,
+      "year_end": -50,
+      "date_precision": "broad_range",
+      "title": "The memory of Amenemhat III",
+      "topic": "ritual",
+      "evidence_class": "historical_interpretation",
+      "summary": "The royal cult and local traditions survived long after original construction; this marker represents a long process, not a single event.",
+      "visualization": "Temple activity slider shown with uncertain intensity.",
+      "source_ids": [
+        "leeds",
+        "virtual_history"
+      ]
+    },
+    {
+      "id": "herodotus",
+      "site_id": "hawara",
+      "year": -450,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Herodotus visits the Labyrinth",
+      "topic": "ancient_accounts",
+      "evidence_class": "primary_text_report",
+      "summary": "Herodotus described twelve courts and reported 3,000 rooms, saying he saw the upper level but not the underground chambers.",
+      "visualization": "Offer 12-court textual overlay; alleged underground 1,500 rooms in reported-only layer.",
+      "source_ids": [
+        "herodotus"
+      ]
+    },
+    {
+      "id": "diodorus",
+      "site_id": "hawara",
+      "year": -50,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Diodorus repeats the wonder",
+      "topic": "ancient_accounts",
+      "evidence_class": "ancient_secondary_account",
+      "summary": "Diodorus credits the complex to a king named Mares/Mendes and preserves a tradition linking it to the Cretan labyrinth. Attribution differs from archaeological identification.",
+      "visualization": "Compare ancient authors; no asserted architectural changes.",
+      "source_ids": [
+        "nriag"
+      ]
+    },
+    {
+      "id": "strabo",
+      "site_id": "hawara",
+      "year": -20,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Strabo describes courtyards and immense stone roofs",
+      "topic": "ancient_accounts",
+      "evidence_class": "primary_text_report",
+      "summary": "Strabo describes courts, winding corridors, monolithic pillars and roof stones beside the royal pyramid. His counts differ from Herodotus.",
+      "visualization": "Switch from Herodotus narrative plan to Strabo plan with annotated contradictions.",
+      "source_ids": [
+        "strabo"
+      ]
+    },
+    {
+      "id": "greco_roman_quarry",
+      "site_id": "hawara",
+      "year": 100,
+      "year_end": 350,
+      "date_precision": "broad_range",
+      "title": "Building stone removed and re-used",
+      "topic": "site_change",
+      "evidence_class": "archaeological_interpretation",
+      "summary": "During Ptolemaic and Roman periods the complex was extensively quarried and reused. Do not impose a single date for its disappearance.",
+      "visualization": "Progressively reduce idealized temple to fragmented foundation beds.",
+      "source_ids": [
+        "vlf2010",
+        "virtual_history"
+      ]
+    },
+    {
+      "id": "roman_necropolis",
+      "site_id": "hawara",
+      "year": 150,
+      "year_end": 300,
+      "date_precision": "broad_range",
+      "title": "Fayum mummy portraits",
+      "topic": "burial",
+      "evidence_class": "archaeologically_attested",
+      "summary": "Hawara became an important Roman-period cemetery; some burials bore painted mummy portraits later recovered by Petrie.",
+      "visualization": "Reveal burial landscape and museum-linked objects; distinguish grave goods from temple chambers.",
+      "source_ids": [
+        "ucl_roman",
+        "ucl_site"
+      ]
+    },
+    {
+      "id": "french_survey",
+      "site_id": "hawara",
+      "year": 1800,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "French expedition maps Hawara",
+      "topic": "rediscovery",
+      "evidence_class": "historically_documented",
+      "summary": "French-era surveyors documented the pyramid and neighbouring remains; later published descriptions sometimes misidentified visible structures.",
+      "visualization": "Historical map overlay, clearly marked as interpretation.",
+      "source_ids": [
+        "vlf2010"
+      ]
+    },
+    {
+      "id": "lepsius",
+      "site_id": "hawara",
+      "year": 1843,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "Lepsius excavates and maps",
+      "topic": "excavation",
+      "evidence_class": "historically_documented",
+      "summary": "The Prussian expedition investigated structures near the pyramid, but some masonry Lepsius associated with the original complex was later reassigned to Roman occupation.",
+      "visualization": "Toggle Lepsius historical plan versus modern archaeological assessment.",
+      "source_ids": [
+        "virtual_history",
+        "vlf2010"
+      ]
+    },
+    {
+      "id": "petrie_first",
+      "site_id": "hawara",
+      "year": 1888,
+      "year_end": 1889,
+      "date_precision": "range",
+      "title": "Petrie begins systematic excavation",
+      "topic": "excavation",
+      "evidence_class": "historically_documented",
+      "summary": "Flinders Petrie investigates pyramid, temple platform and cemeteries; first campaigns run 1888–1889.",
+      "visualization": "Excavation trenches and published plan overlay.",
+      "source_ids": [
+        "petrie",
+        "ucl_exc",
+        "virtual_history"
+      ]
+    },
+    {
+      "id": "petrie_pyramid",
+      "site_id": "hawara",
+      "year": 1889,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Petrie documents the pyramid interior",
+      "topic": "excavation",
+      "evidence_class": "historically_documented",
+      "summary": "Excavation helps define Hawara pyramid internal architecture while surviving temple fabric remains limited.",
+      "visualization": "Show documented pyramid passages separately from hypothetical labyrinth rooms.",
+      "source_ids": [
+        "petrie",
+        "virtual_history"
+      ]
+    },
+    {
+      "id": "petrie_return",
+      "site_id": "hawara",
+      "year": 1911,
+      "year_end": 1911,
+      "date_precision": "range",
+      "title": "Petrie returns to Hawara",
+      "topic": "excavation",
+      "evidence_class": "historically_documented",
+      "summary": "Petrie undertakes another season in 1910–1911. His proposed Labyrinth plan remained schematic and substantially reconstructed from ancient texts.",
+      "visualization": "Show footprint from his publication; mark conjectural room positions.",
+      "source_ids": [
+        "ucl_exc",
+        "virtual_history",
+        "vlf2010"
+      ]
+    },
+    {
+      "id": "leuven",
+      "site_id": "hawara",
+      "year": 2000,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "Leuven survey relocates sculpture",
+      "topic": "archaeology",
+      "evidence_class": "archaeologically_attested",
+      "summary": "University of Leuven team locates two Middle Kingdom sculptures in western temple area. Peer-reviewed publication followed in 2002.",
+      "visualization": "Plot sculpture-find zones with approximate localization.",
+      "source_ids": [
+        "leuven"
+      ]
+    },
+    {
+      "id": "water2007",
+      "site_id": "hawara",
+      "year": 2007,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "Groundwater origin investigated",
+      "topic": "conservation",
+      "evidence_class": "scientifically_measured",
+      "summary": "Stable-isotope chemistry points to the Bahr Selah canal as a principal source of ingress; salt accumulation threatens the pyramid.",
+      "visualization": "Groundwater layer, not rooms; use time-specific study values.",
+      "source_ids": [
+        "water2007"
+      ]
+    },
+    {
+      "id": "vlf_field",
+      "site_id": "hawara",
+      "year": 2008,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Electromagnetic prospecting at Hawara",
+      "topic": "geophysics",
+      "evidence_class": "instrument_measured_anomaly",
+      "summary": "An NRIAG-linked survey gathers VLF-EM and resistivity data south of the pyramid. Detailed interpretations appear in 2010.",
+      "visualization": "Show original scan grid; no revealed hallways.",
+      "source_ids": [
+        "nriag",
+        "vlf2010"
+      ]
+    },
+    {
+      "id": "vlf_publication",
+      "site_id": "hawara",
+      "year": 2010,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "VLF-EM survey reports patterned anomalies",
+      "topic": "geophysics",
+      "evidence_class": "instrument_measured_anomaly",
+      "summary": "75 VLF-EM profiles on a 100×140 m survey grid indicate elongated and rectilinear conductivity anomalies; modeled slices include depths of 4 m and 8 m. Authors describe a possible archaeological explanation, not verified rooms.",
+      "visualization": "Display original geophysical figures with source links and separate interpretive traces.",
+      "source_ids": [
+        "vlf2010"
+      ]
+    },
+    {
+      "id": "tem_publication",
+      "site_id": "hawara",
+      "year": 2010,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "TEM/GEM maps the water table",
+      "topic": "geophysics",
+      "evidence_class": "instrument_measured_environment",
+      "summary": "74 TEM stations and a GEM grid support groundwater levels varying around 2–7 m below surface in the study area. This is groundwater mapping, not an underground chamber map.",
+      "visualization": "Hydrology contours with time-slice disclaimer.",
+      "source_ids": [
+        "tem2010"
+      ]
+    },
+    {
+      "id": "gpr2015",
+      "site_id": "hawara",
+      "year": 2015,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "Ground-penetrating radar identifies possible features",
+      "topic": "geophysics",
+      "evidence_class": "instrument_measured_anomaly",
+      "summary": "GPR cross-sections extend to approximately 20 m in a conservation survey; some reflections may represent walls, but the author states this does not demonstrate Herodotus’s labyrinth.",
+      "visualization": "Show actual cross-sections 653 and north-side N1 plus uncertain feature traces.",
+      "source_ids": [
+        "gpr2015"
+      ]
+    },
+    {
+      "id": "geoscan_2014_15",
+      "site_id": "hawara",
+      "year": 2015,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "GeoScan satellite reconstruction publicized",
+      "topic": "contested_scans",
+      "evidence_class": "unsupported_reconstruction",
+      "summary": "A claimed two-level flooded/unflooded model was publicized by project advocates; no accessible independent archaeological validation or raw-data workflow was identified.",
+      "visualization": "Violet-only visual with provenance banner; do not use as surveyed mesh.",
+      "source_ids": [
+        "arf"
+      ]
+    },
+    {
+      "id": "merlin_2015",
+      "site_id": "hawara",
+      "year": 2015,
+      "year_end": null,
+      "date_precision": "approximate",
+      "title": "Merlin Burrows deep-structure claims",
+      "topic": "contested_scans",
+      "evidence_class": "unsupported_claim",
+      "summary": "Claims of deep halls, boats, and a large metal object depend on advocates’ accounts; no verifiable independent scans demonstrating these structures were located.",
+      "visualization": "Claims layer off by default; no confirmed object geometry.",
+      "source_ids": [
+        "arf"
+      ]
+    },
+    {
+      "id": "virtual_hawara",
+      "site_id": "hawara",
+      "year": 2020,
+      "year_end": 2022,
+      "date_precision": "range",
+      "title": "Virtual Hawara documents the site",
+      "topic": "digital_archaeology",
+      "evidence_class": "academically_documented",
+      "summary": "UK/Egypt university collaboration develops terrestrial laser survey, topographic GIS, and evidence-led digital reconstructions. A digital reconstruction is not direct observation of intact underground corridors.",
+      "visualization": "Show site point-cloud/terrain as observed layer and color idealized buildings separately.",
+      "source_ids": [
+        "leeds",
+        "virtual_model"
+      ]
+    },
+    {
+      "id": "sar2025",
+      "site_id": "hawara",
+      "year": 2025,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "Spaceborne SAR hypothesis published",
+      "topic": "contested_scans",
+      "evidence_class": "published_hypothesis",
+      "summary": "Mark Carlotto argues radar differences from two satellite systems may reflect buried features south of Hawara; this is an indirect interpretation and does not map proven deep rooms.",
+      "visualization": "Violet interpreted-anomaly footprints, linked to paper with methodology caveat.",
+      "source_ids": [
+        "sar2025"
+      ]
+    },
+    {
+      "id": "excavation2026",
+      "site_id": "hawara",
+      "year": 2026,
+      "year_end": null,
+      "date_precision": "year",
+      "title": "Egyptian excavation resumes at Hawara",
+      "topic": "fieldwork",
+      "evidence_class": "contemporary_news_confirmed",
+      "summary": "Egyptian news dated 7 May 2026 reports the Supreme Council of Antiquities Fayoum mission excavating to identify labyrinth remains. Independent context for claimed new megalithic wall was not located.",
+      "visualization": "Show active research marker; do not add revealed deep chambers or a validated wall plan.",
+      "source_ids": [
+        "dig2026",
+        "arf"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ucl_site",
+      "title": "UCL Digital Egypt: Hawara",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/index.html",
+      "type": "academic_site"
+    },
+    {
+      "id": "virtual_history",
+      "title": "Virtual Hawara, History of Hawara",
+      "url": "https://virtualhawara.com/history-of-hawara",
+      "type": "university_project"
+    },
+    {
+      "id": "virtual_model",
+      "title": "Virtual Hawara, Digitising the Pyramid",
+      "url": "https://virtualhawara.com/virtual-hawara",
+      "type": "university_project"
+    },
+    {
+      "id": "leeds",
+      "title": "University of Leeds, LABYRINTH research project",
+      "url": "https://eps.leeds.ac.uk/research-project/1/faculty-of-engineering-and-physical-sciences/4202/",
+      "type": "university_project"
+    },
+    {
+      "id": "herodotus",
+      "title": "Herodotus, Histories II.148",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/2b%2A.html",
+      "type": "ancient_primary_text"
+    },
+    {
+      "id": "strabo",
+      "title": "Strabo, Geography XVII.1.37",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/17A3%2A.html",
+      "type": "ancient_primary_text"
+    },
+    {
+      "id": "petrie",
+      "title": "Petrie, Ten Years Digging in Egypt, Chapter VII",
+      "url": "https://www.gutenberg.org/files/52570/52570-h/52570-h.htm",
+      "type": "historical_primary_text"
+    },
+    {
+      "id": "ucl_exc",
+      "title": "UCL, Petrie and BSAE site index",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/archaeology/sitesindex.html",
+      "type": "academic_site"
+    },
+    {
+      "id": "leuven",
+      "title": "Uytterhoeven & Blom-Boer, 2002, JEA",
+      "url": "https://doi.org/10.1177/030751330208800108",
+      "type": "peer_reviewed_archaeology"
+    },
+    {
+      "id": "nriag",
+      "title": "NRIAG, Geophysical Studies of Hawara Pyramid Area, April 2008 (introductory report)",
+      "url": "https://www.ancient-origins.net/sites/default/files/geophysical-studies-hawara.pdf",
+      "type": "institutional_report_copy"
+    },
+    {
+      "id": "vlf2010",
+      "title": "Khalil et al., 2010, Near Surface Geophysics, VLF-EM",
+      "url": "https://doi.org/10.3997/1873-0604.2010004",
+      "type": "peer_reviewed_geophysics"
+    },
+    {
+      "id": "tem2010",
+      "title": "Massoud et al., 2010, Chinese Journal of Geophysics, TEM/GEM",
+      "url": "https://html.rhhz.net/dqwlxb/2010-03-18.htm",
+      "type": "peer_reviewed_geophysics"
+    },
+    {
+      "id": "gpr2015",
+      "title": "Szynkiewicz, 2015, Archaeologia Polona, GPR",
+      "url": "https://rcin.org.pl/Content/86930/WA308_92311_P357_GPR-research-around.pdf",
+      "type": "scholarly_geophysics"
+    },
+    {
+      "id": "water2007",
+      "title": "Keatings et al., 2007, Geoarchaeology, groundwater",
+      "url": "https://doi.org/10.1002/gea.20171",
+      "type": "peer_reviewed_geoarchaeology"
+    },
+    {
+      "id": "sar2025",
+      "title": "Carlotto, 2025, Journal of Scientific Exploration, space-based SAR",
+      "url": "https://doi.org/10.31275/20253579",
+      "type": "published_hypothesis"
+    },
+    {
+      "id": "dig2026",
+      "title": "Youm7, 7 May 2026, Supreme Council of Antiquities team at Hawara",
+      "url": "https://www.youm7.com/amp/2026/5/7/%D8%AD%D9%81%D8%A7%D8%A6%D8%B1-%D9%81%D9%89-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%87%D9%88%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D9%88%D9%85/7405509",
+      "type": "contemporary_news_reporting_excavation"
+    },
+    {
+      "id": "arf",
+      "title": "Archaeological Rescue Foundation, Hawara claims and project updates",
+      "url": "https://archaeologicalrescue.org/hawara/",
+      "type": "stakeholder_advocacy"
+    },
+    {
+      "id": "ucl_roman",
+      "title": "UCL Digital Egypt, Hawara in the Roman period",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/hawara1/roman/index.html",
+      "type": "academic_site"
+    }
+  ],
+  "application_integration": {
+    "navigation": "Add Hawara as separate site selectable from Giza; link their timelines by shared world date",
+    "year_range": [
+      -1900,
+      2026
+    ],
+    "min_recommended_chapters": 16,
+    "ideal_chapters": 29,
+    "visual_layers": [
+      "observed surface archaeology",
+      "hypothetical historical architecture",
+      "measured geophysical anomaly grids",
+      "hydrogeology and flood levels",
+      "historical authors claims",
+      "disputed deep scan narratives"
+    ],
+    "labels": [
+      "Excavated / observed",
+      "Ancient description",
+      "Remotely detected anomaly",
+      "Interpretation / disputed"
+    ],
+    "first_tour_stops": [
+      "c.1840 BCE: Construction",
+      "c.1830 BCE: The temple",
+      "c.450 BCE: Herodotus",
+      "20 BCE: Strabo",
+      "1843: Lepsius",
+      "1888: Petrie",
+      "2000: Leuven",
+      "2010: VLF anomalies",
+      "2015: GPR caveat",
+      "2020: Virtual Hawara",
+      "2025: SAR hypothesis",
+      "2026: resumed digs"
+    ]
+  }
+}

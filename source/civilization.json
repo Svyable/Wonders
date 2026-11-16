@@ -1,0 +1,703 @@
+[
+  {
+    "id": "gobekli",
+    "polity": "Pre-Pottery Neolithic communities",
+    "languages": "Spoken language unattested",
+    "writing": "No writing attested",
+    "engineering": "Collective quarrying, carved T-pillars",
+    "ecology": "Agriculture and foraging at a regional transition",
+    "population": null,
+    "population_note": "No site-level census; gathering-place populations unknown",
+    "source": "https://whc.unesco.org/en/list/1572/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": -9600,
+        "label": "First enclosures"
+      },
+      {
+        "phase": 1,
+        "year": -8700,
+        "label": "Carved pillars & gathering"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Excavated mound",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred.",
+        "languages": "Prehistoric speech remains unattested"
+      }
+    ]
+  },
+  {
+    "id": "stonehenge",
+    "polity": "Neolithic and Bronze Age communities",
+    "languages": "Prehistoric languages unknown",
+    "writing": "No local written record",
+    "engineering": "Megalith transport and solstitial alignments",
+    "ecology": "Chalk downland ceremonial landscape",
+    "population": null,
+    "population_note": "Stonehenge is not evidenced as a permanent city",
+    "source": "https://whc.unesco.org/en/list/373/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": -3000,
+        "label": "Bank, ditch & burials"
+      },
+      {
+        "phase": 1,
+        "year": -2500,
+        "label": "Standing stones rise"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Surviving circle",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "petra",
+    "polity": "Nabataean kingdom",
+    "languages": "Nabataean Aramaic; Greek also used",
+    "writing": "Nabataean Aramaic inscriptions",
+    "engineering": "Cisterns, dams and rock-cut façades",
+    "ecology": "Desert caravan exchange; incense routes",
+    "population": null,
+    "population_note": "City population debated; no stable site-bound count",
+    "source": "https://whc.unesco.org/en/list/326/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": -300,
+        "label": "Caravan landscape"
+      },
+      {
+        "phase": 1,
+        "year": -50,
+        "label": "Nabataean city"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Rock-cut remains",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred.",
+        "languages": "Modern Arabic; Nabataean Aramaic in historic inscriptions"
+      }
+    ]
+  },
+  {
+    "id": "machu",
+    "polity": "Inca Empire (at later phase)",
+    "languages": "Quechua and other Andean languages",
+    "writing": "Khipu record-keeping; no alphabetic Inca script",
+    "engineering": "Ashlar masonry and terraced drainage",
+    "ecology": "Andean vertical ecology and roads",
+    "population": null,
+    "population_note": "Royal estate, not a measured urban population",
+    "source": "https://whc.unesco.org/en/list/274/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1400,
+        "label": "Andean ridge"
+      },
+      {
+        "phase": 1,
+        "year": 1470,
+        "label": "Inca royal estate"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Protected sanctuary",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "angkor",
+    "polity": "Khmer Empire",
+    "languages": "Old Khmer; Sanskrit in elite ritual",
+    "writing": "Old Khmer and Sanskrit inscriptions",
+    "engineering": "Barays, canals and temple construction",
+    "ecology": "Managed rice landscape and water systems",
+    "population": null,
+    "population_note": "Regional modeled population, not Angkor Wat residents",
+    "source": "https://whc.unesco.org/en/list/668/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 900,
+        "label": "Expanding Khmer capitals"
+      },
+      {
+        "phase": 1,
+        "year": 1250,
+        "label": "Greater Angkor at its height",
+        "population": {
+          "phase": 1,
+          "value": "700–900k",
+          "scope": "Greater Angkor Region (≈3,000 km²), 13th-century peak",
+          "method": "Lidar, settlement archaeology and demographic modelling",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8104873/",
+          "confidence": "Modelled range"
+        }
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Living heritage",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred.",
+        "languages": "Khmer; Sanskrit survives in historical inscriptions"
+      }
+    ]
+  },
+  {
+    "id": "chichen",
+    "polity": "Maya polities of northern Yucatán",
+    "languages": "Maya languages; precise local varieties debated",
+    "writing": "Maya hieroglyphic writing",
+    "engineering": "Temple pyramids, causeways and cenotes",
+    "ecology": "Seasonal rainfall and limestone aquifers",
+    "population": null,
+    "population_note": "No single securely established city population",
+    "source": "https://whc.unesco.org/en/list/483/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 750,
+        "label": "Maya urban center"
+      },
+      {
+        "phase": 1,
+        "year": 1050,
+        "label": "Monumental ceremonial core"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Conserved ruins",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "teotihuacan",
+    "polity": "Teotihuacan urban state",
+    "languages": "Spoken languages not securely identified",
+    "writing": "Undeciphered sign and mural traditions",
+    "engineering": "Apartment compounds and urban planning",
+    "ecology": "Valley trade, craft production and obsidian",
+    "population": null,
+    "population_note": "UNESCO notes at least 25,000 inhabitants in the urban city",
+    "source": "https://whc.unesco.org/en/list/414/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 100,
+        "label": "Urban expansion"
+      },
+      {
+        "phase": 1,
+        "year": 400,
+        "label": "Sun & Moon pyramids",
+        "population": {
+          "phase": 1,
+          "value": "≥25k",
+          "scope": "Ancient city, broadly 1st–7th centuries CE",
+          "method": "Conservative UNESCO floor, not a precise peak count",
+          "url": "https://whc.unesco.org/en/list/414",
+          "confidence": "Lower bound"
+        }
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Excavated avenue",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "borobudur",
+    "polity": "Central Javanese Buddhist kingdoms",
+    "languages": "Old Javanese; Sanskrit religious use",
+    "writing": "Early Javanese scripts; Sanskrit inscriptions",
+    "engineering": "Volcanic-stone masonry and stepped mandala",
+    "ecology": "Agricultural valleys and Buddhist pilgrimage",
+    "population": null,
+    "population_note": "A sanctuary; its regional population is not quantified here",
+    "source": "https://whc.unesco.org/en/list/592/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 780,
+        "label": "Hill sanctuary"
+      },
+      {
+        "phase": 1,
+        "year": 830,
+        "label": "Stone mandala"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Restored pilgrimage",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "rapanui",
+    "polity": "Rapa Nui island communities",
+    "languages": "Rapa Nui (Polynesian)",
+    "writing": "Rongorongo chronology / decipherment disputed",
+    "engineering": "Moai carving and transport; ahu platforms",
+    "ecology": "Isolated Pacific ecology and seabird resources",
+    "population": null,
+    "population_note": "Pre-contact island population highly disputed",
+    "source": "https://whc.unesco.org/en/list/715/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1100,
+        "label": "Ancestral platforms"
+      },
+      {
+        "phase": 1,
+        "year": 1500,
+        "label": "Moai on the ahu"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Island archaeology",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "nanmadol",
+    "polity": "Saudeleur chiefly polity",
+    "languages": "Ancestral Pohnpeian (inferred)",
+    "writing": "No precontact writing securely attested",
+    "engineering": "Basalt-log seawalls and artificial islets",
+    "ecology": "Tidal lagoon and maritime movement",
+    "population": null,
+    "population_note": "Ceremonial center rather than a documented city census",
+    "source": "https://whc.unesco.org/en/list/1503/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1200,
+        "label": "Building islets"
+      },
+      {
+        "phase": 1,
+        "year": 1450,
+        "label": "Ceremonial tidal city"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Conservation challenge",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "tikal",
+    "polity": "Classic Maya kingdom of Mutul",
+    "languages": "Classic Maya speech; Ch’olan associations",
+    "writing": "Classic Maya hieroglyphs",
+    "engineering": "Temple towers and elevated reservoirs",
+    "ecology": "Forest agriculture and seasonal water storage",
+    "population": null,
+    "population_note": "Population estimates depend on the mapped urban catchment",
+    "source": "https://whc.unesco.org/en/list/64/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 250,
+        "label": "Royal center grows"
+      },
+      {
+        "phase": 1,
+        "year": 750,
+        "label": "Classic Maya skyline"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Forest and excavation",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "greatzimbabwe",
+    "polity": "Great Zimbabwe polity",
+    "languages": "Ancestors of Shona-speaking communities",
+    "writing": "No local script recorded for this phase",
+    "engineering": "Dry-stone walls without mortar",
+    "ecology": "Cattle, gold exchange and Indian Ocean links",
+    "population": null,
+    "population_note": "Uncertain settlement totals; do not convert walls to residents",
+    "source": "https://whc.unesco.org/en/list/364/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1100,
+        "label": "Hill settlement"
+      },
+      {
+        "phase": 1,
+        "year": 1350,
+        "label": "Great Enclosure"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Stonework survives",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "pompeii",
+    "polity": "Roman Campania",
+    "languages": "Latin; earlier Oscan, some Greek",
+    "writing": "Latin alphabet; Oscan inscriptions survive",
+    "engineering": "Street paving, baths and atrium houses",
+    "ecology": "Bay of Naples agriculture, trade and Vesuvius",
+    "population": null,
+    "population_note": "Scholarly city estimate for the late Roman phase",
+    "source": "https://whc.unesco.org/en/list/829/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": -100,
+        "label": "Roman street life",
+        "polity": "Samnite-era and Roman transition",
+        "languages": "Oscan and Latin; Greek in wider contact",
+        "writing": "Oscan and Latin inscriptions",
+        "population_note": "No securely bounded population estimate for 100 BCE"
+      },
+      {
+        "phase": 1,
+        "year": 70,
+        "label": "The inhabited town",
+        "population": {
+          "phase": 1,
+          "value": "12–16k",
+          "scope": "Pompeii city, near the 79 CE eruption",
+          "method": "Published scholarly demographic estimate; not a census",
+          "url": "https://pompeiicommitment.org/en/a-city/",
+          "confidence": "Contested estimate"
+        }
+      },
+      {
+        "phase": 2,
+        "year": 79,
+        "label": "Eruption of 79 CE",
+        "polity": "Roman Empire · AD 79 eruption",
+        "languages": "Latin (with surviving Oscan heritage)",
+        "population_note": "Urban population immediately before eruption: modelled, not counted",
+        "population": {
+          "phase": 2,
+          "value": "12–16k",
+          "scope": "Estimated city population before eruption, not survivors",
+          "method": "Published scholarly demographic estimate; not a census",
+          "url": "https://pompeiicommitment.org/en/a-city/",
+          "confidence": "Contested estimate"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rome",
+    "polity": "Roman Empire",
+    "languages": "Latin; Greek widely used",
+    "writing": "Latin and Greek alphabets",
+    "engineering": "Concrete vaults, arches and arena substructures",
+    "ecology": "Imperial metropolitan trade network",
+    "population": null,
+    "population_note": "Amphitheater spectator capacity is not city population",
+    "source": "https://whc.unesco.org/en/list/91/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 72,
+        "label": "Flavian building works"
+      },
+      {
+        "phase": 1,
+        "year": 80,
+        "label": "Amphitheatre opens"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Layered ruins",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "greatwall",
+    "polity": "Ming frontier administrations",
+    "languages": "Sinitic languages and frontier multilingualism",
+    "writing": "Chinese characters (Hanzi)",
+    "engineering": "Brick, stone ramparts and watchtowers",
+    "ecology": "Steppe borderlands and supply routes",
+    "population": null,
+    "population_note": "Wall is a network, not a residential population unit",
+    "source": "https://whc.unesco.org/en/list/438/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1400,
+        "label": "Earlier frontier works"
+      },
+      {
+        "phase": 1,
+        "year": 1550,
+        "label": "Ming fortifications"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Surviving wall sectors",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "taj",
+    "polity": "Mughal Empire",
+    "languages": "Persian court language; regional Indic languages",
+    "writing": "Perso-Arabic calligraphy; other local scripts",
+    "engineering": "Marble inlay, dome and symmetric gardens",
+    "ecology": "Yamuna river and imperial craft networks",
+    "population": null,
+    "population_note": "Mausoleum site; workers / city population not established here",
+    "source": "https://whc.unesco.org/en/list/252/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1632,
+        "label": "Foundation and craftspeople"
+      },
+      {
+        "phase": 1,
+        "year": 1648,
+        "label": "Marble mausoleum"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Conserved masterpiece",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "abusimbel",
+    "polity": "New Kingdom, Ramesside Egypt",
+    "languages": "Egyptian language",
+    "writing": "Monumental Egyptian hieroglyphs",
+    "engineering": "Rock-cut temples and solar alignment",
+    "ecology": "Nubian Nile frontier",
+    "population": null,
+    "population_note": "Temple precinct; not an urban population record",
+    "source": "https://whc.unesco.org/en/list/88/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": -1260,
+        "label": "Cutting into the cliff"
+      },
+      {
+        "phase": 1,
+        "year": -1240,
+        "label": "Ramesside sanctuary"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Relocated temple",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "sigiriya",
+    "polity": "Kingdoms of ancient Sri Lanka",
+    "languages": "Early Sinhala; Pali liturgical context",
+    "writing": "Brahmi-derived inscriptions",
+    "engineering": "Rock summit building and hydraulic gardens",
+    "ecology": "Monsoon ecology and citadel water systems",
+    "population": null,
+    "population_note": "Palace/monastic site; population unquantified",
+    "source": "https://whc.unesco.org/en/list/202/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 470,
+        "label": "Rock landscape"
+      },
+      {
+        "phase": 1,
+        "year": 495,
+        "label": "Palace & gardens"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Monastic and heritage site",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "mohenjo",
+    "polity": "Indus urban civilization",
+    "languages": "Indus language(s) unknown",
+    "writing": "Undeciphered Indus signs",
+    "engineering": "Baked brick, drains and wells",
+    "ecology": "Indus floodplain agriculture and trade",
+    "population": null,
+    "population_note": "Regional population estimates vary; none treated as a census",
+    "source": "https://whc.unesco.org/en/list/138/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": -2600,
+        "label": "Early Indus settlement"
+      },
+      {
+        "phase": 1,
+        "year": -2200,
+        "label": "Planned urban blocks"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Excavated street grid",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred.",
+        "writing": "Indus signs still undeciphered; no secure linguistic decipherment"
+      }
+    ]
+  },
+  {
+    "id": "lalibela",
+    "polity": "Zagwe dynasty / Ethiopian highlands",
+    "languages": "Ge’ez liturgical; local Ethiopic speech",
+    "writing": "Ge’ez script",
+    "engineering": "Monolithic rock-hewn churches and trenches",
+    "ecology": "Highland Christian pilgrimage",
+    "population": null,
+    "population_note": "Living sacred precinct, not a population sample",
+    "source": "https://whc.unesco.org/en/list/18/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1150,
+        "label": "Highland rock landscape"
+      },
+      {
+        "phase": 1,
+        "year": 1250,
+        "label": "Rock-hewn churches"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Living pilgrimage",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "persepolis",
+    "polity": "Achaemenid Persian Empire",
+    "languages": "Old Persian; Elamite; Akkadian",
+    "writing": "Cuneiform archives and monumental texts",
+    "engineering": "Columned halls, stone reliefs and terraces",
+    "ecology": "Imperial ceremonial and administrative exchange",
+    "population": null,
+    "population_note": "Palace terrace, not the empire’s demographic center",
+    "source": "https://whc.unesco.org/en/list/114/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": -518,
+        "label": "Darius begins a terrace"
+      },
+      {
+        "phase": 1,
+        "year": -450,
+        "label": "Achaemenid palace complex"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Ruined monumental terrace",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  },
+  {
+    "id": "cusco",
+    "polity": "Inca Empire",
+    "languages": "Quechua and diverse Andean languages",
+    "writing": "Khipu administrative records; no alphabetic Inca script",
+    "engineering": "Polygonal masonry and terracing",
+    "ecology": "High-altitude roads and food redistribution",
+    "population": null,
+    "population_note": "Fortress and capital estimates are not directly comparable",
+    "source": "https://whc.unesco.org/en/list/273/",
+    "stages": [
+      {
+        "phase": 0,
+        "year": 1400,
+        "label": "Inca highland capital"
+      },
+      {
+        "phase": 1,
+        "year": 1500,
+        "label": "Terraced fortress walls"
+      },
+      {
+        "phase": 2,
+        "year": 2026,
+        "label": "Living city & stonework",
+        "polity": "Modern heritage / contemporary society",
+        "population_note": "Modern site visitors ≠ ancient resident population. No present-day city demographics inferred."
+      }
+    ]
+  }
+]

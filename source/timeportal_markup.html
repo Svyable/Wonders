@@ -1,0 +1,66 @@
+<div id="timeportal" class="timeportal" role="dialog" aria-modal="true" aria-hidden="true" aria-label="WonderTime interactive historical Timeportal">
+ <div class="tp-shell">
+  <header class="tp-header">
+   <div class="tp-brand">Wonder<b>Time</b><small>4D timeportals / atlas</small></div>
+   <div class="tp-centerhead"><div class="tp-topline">Orbit · Time travel · Explore</div><h2 id="tpTitle" class="tp-hname">The historical site</h2></div>
+   <button id="tpClose" class="tp-close" aria-label="Close Timeportal">← Earth</button>
+  </header>
+  <div class="tp-grid">
+   <aside class="tp-left" aria-label="Historical context">
+    <div class="tp-kicker">◈ Interpretive 3D diorama</div>
+    <div><div class="tp-label">You are exploring</div><h3 id="tpLocation" class="tp-subtitle">A place through time</h3></div>
+    <div id="tpFocus" class="tp-muted"></div>
+    <div class="tp-sep"></div>
+    <div class="tp-label">What the evidence supports</div>
+    <p id="tpStageFacts" class="tp-muted"></p>
+    <div class="tp-evidence"><strong>Evidence-aware rendering</strong><p id="tpCaveat">This conceptual spatial scene is not a measured site survey.</p></div>
+    <a id="tpSource" class="tp-source" target="_blank" rel="noopener noreferrer" href="#">Primary site reference ↗</a>
+    <button id="tpNext" class="tp-next">Next wonder timeportal ↗</button>
+   </aside>
+   <section class="tp-render" aria-label="Orbitable temporal reconstruction">
+    <canvas id="tpCanvas" aria-label="Drag to orbit the 3D scene, scroll to zoom. These are indicative conceptual models." tabindex="0"></canvas>
+    <div class="tp-imagebar"><div>SPATIAL INTERPRETATION / HUMAN HISTORY</div><div class="tp-live">● LIVE DIORAMA</div></div>
+    <div class="tp-watermark" id="tpGlobeLabel"></div>
+    <section class="tp-hud" aria-label="Civilization at this historical moment">
+      <div class="tp-hud-heading"><span class="tp-hud-dot"></span> CIVILIZATION / TIME-SCOPED DATA</div>
+      <div class="tp-hud-grid">
+       <div><span>POPULATION</span><strong id="tpHudPopulation">Not established</strong></div>
+       <div><span>LANGUAGE</span><strong id="tpHudLanguage">Uncertain</strong></div>
+       <div><span>POLITY</span><strong id="tpHudPolity">Historical context</strong></div>
+      </div>
+      <div id="tpHudScope" class="tp-hud-scope">Site-scoped; no invented census</div>
+    </section>
+    <div class="tp-toolrow">
+     <button class="tp-tool" id="tpZoomOut" aria-label="Zoom out">−</button>
+     <button class="tp-tool" id="tpZoomIn" aria-label="Zoom in">+</button>
+     <button class="tp-tool" id="tpReset">Reset view</button>
+     <button class="tp-tool" id="tpShot">PNG ↓</button>
+    </div>
+   </section>
+   <aside class="tp-right" aria-label="Site timeline">
+     <div class="tp-label">Change through the centuries</div>
+     <h3 id="tpEra" class="tp-phase-title">A living timeline</h3>
+     <div id="tpChapter" class="tp-chapter">02 / 03</div>
+     <p id="tpStory" class="tp-story">Discover the spatial story through time.</p>
+     <div class="tp-sep"></div>
+     <div class="tp-stages" id="tpStages"></div>
+     <section class="tp-culture-panel" aria-label="Evidence and civilization indicators">
+       <div class="tp-label">Civilization intelligence</div>
+       <dl>
+        <div><dt>Writing / records</dt><dd id="tpDataWriting">Not established</dd></div>
+        <div><dt>Engineering</dt><dd id="tpDataEngineering">Not established</dd></div>
+        <div><dt>Environment / economy</dt><dd id="tpDataEcology">Not established</dd></div>
+       </dl>
+       <p id="tpDataNote">Every snapshot is tied to the nearest named phase, not interpolated between centuries.</p>
+       <a id="tpDataSource" href="#" target="_blank" rel="noopener noreferrer">Data &amp; evidence source ↗</a>
+     </section>
+     <div class="tp-muted">These are selected interpretive phases—not a complete historical reconstruction. Move freely between periods.</div>
+   </aside>
+  </div>
+  <footer class="tp-footer">
+   <button class="tp-play" id="tpPlay"><span id="tpStatus">PLAY HISTORY</span> ▶</button>
+   <div class="tp-timeline"><div class="tp-timestamp"><span>Travel through time</span><strong id="tpDate">A historical year</strong></div><input type="range" id="tpRange" class="tp-range" min="0" max="1000" value="500" step="1" aria-label="Travel from foundation through flourishing to later history"/><div class="tp-range-ticks"><span>BEFORE</span><span>FLOURISHING</span><span id="tpFinalTick">PRESENT / LEGACY</span></div></div>
+   <div class="tp-clocknote"><strong>SPACE + TIME = 4D</strong>Rotate or zoom the model. Scrub the century. Illustrative, not archaeological scan geometry.</div>
+  </footer>
+ </div>
+</div>

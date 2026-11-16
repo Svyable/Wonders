@@ -1,0 +1,574 @@
+[
+  {
+    "id": "gobekli",
+    "kind": "ring",
+    "palette": "ochre",
+    "source": "https://whc.unesco.org/en/list/1572/",
+    "stages": [
+      {
+        "year": -9600,
+        "name": "First enclosures",
+        "story": "Early monumental enclosures emerge in the pre-pottery Neolithic; exact sequences differ across buildings."
+      },
+      {
+        "year": -8700,
+        "name": "Carved pillars & gathering",
+        "story": "Large T-shaped pillars and circular or oval settings express elaborate communal building traditions."
+      },
+      {
+        "year": 2026,
+        "name": "Excavated mound",
+        "story": "Excavations reveal portions of the enclosures; some remain covered or beneath later deposits."
+      }
+    ],
+    "caveat": "Carved T-shaped pillars are observed; complete elevations and social uses remain interpretations.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "stonehenge",
+    "kind": "stones",
+    "palette": "mist",
+    "source": "https://whc.unesco.org/en/list/373/",
+    "stages": [
+      {
+        "year": -3000,
+        "name": "Bank, ditch & burials",
+        "story": "The earliest monument includes an earthwork enclosure and cremation cemetery."
+      },
+      {
+        "year": -2500,
+        "name": "Standing stones rise",
+        "story": "Sarsen uprights, lintels and bluestones make Stonehenge a long-running building project."
+      },
+      {
+        "year": 2026,
+        "name": "Surviving circle",
+        "story": "The standing monument is incomplete. Modern interpretation draws on archaeology and scientific dating."
+      }
+    ],
+    "caveat": "Sarsens and earthworks are observed; missing stones are selectively idealized.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "petra",
+    "kind": "petra",
+    "palette": "rose",
+    "source": "https://whc.unesco.org/en/list/326/",
+    "stages": [
+      {
+        "year": -300,
+        "name": "Caravan landscape",
+        "story": "Trade routes and settled communities predate the best-known monumental facades."
+      },
+      {
+        "year": -50,
+        "name": "Nabataean city",
+        "story": "Water management and monumental rock-cut buildings flourish under Nabataean rule."
+      },
+      {
+        "year": 2026,
+        "name": "Rock-cut remains",
+        "story": "Petra’s carved facades survive; the full ancient city was much larger than the famous Treasury."
+      }
+    ],
+    "caveat": "A stylized cliff facade stands for Petra, not a surveyed model of Al-Khazneh.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "machu",
+    "kind": "machu",
+    "palette": "emerald",
+    "source": "https://whc.unesco.org/en/list/274/",
+    "stages": [
+      {
+        "year": 1400,
+        "name": "Andean ridge",
+        "story": "The steep mountain landscape predates fifteenth-century building."
+      },
+      {
+        "year": 1470,
+        "name": "Inca royal estate",
+        "story": "Terraces, paths and masonry shape an Inca ceremonial and residential estate."
+      },
+      {
+        "year": 2026,
+        "name": "Protected sanctuary",
+        "story": "Stonework and terraces remain in a landscape that is still home to living communities."
+      }
+    ],
+    "caveat": "Terraces and buildings are schematic, not a geospatial model or exact roof reconstruction.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "angkor",
+    "kind": "angkor",
+    "palette": "jungle",
+    "source": "https://whc.unesco.org/en/list/668/",
+    "stages": [
+      {
+        "year": 900,
+        "name": "Expanding Khmer capitals",
+        "story": "Capitals, reservoirs and temples spread across the Angkor region over centuries."
+      },
+      {
+        "year": 1250,
+        "name": "Greater Angkor at its height",
+        "story": "The temples, reservoirs, fields and dispersed settlements formed a huge connected urban landscape. A research model estimates 700,000–900,000 people across Greater Angkor at its 13th-century peak, not inside Angkor Wat alone."
+      },
+      {
+        "year": 2026,
+        "name": "Living heritage",
+        "story": "The temples endure through changing uses, continued cultural practice and conservation."
+      }
+    ],
+    "caveat": "Angkor Wat-like towers are illustrative of one part of the larger park.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "chichen",
+    "kind": "chichen",
+    "palette": "limestone",
+    "source": "https://whc.unesco.org/en/list/483/",
+    "stages": [
+      {
+        "year": 750,
+        "name": "Maya urban center",
+        "story": "Earlier phases of settlement and ceremonial building precede the famous surviving monuments."
+      },
+      {
+        "year": 1050,
+        "name": "Monumental ceremonial core",
+        "story": "El Castillo and great civic spaces represent a complex cultural and political history."
+      },
+      {
+        "year": 2026,
+        "name": "Conserved ruins",
+        "story": "Surviving stone architecture is conserved; colors and vanished buildings remain less certain."
+      }
+    ],
+    "caveat": "Stepped pyramid is schematic; stages are broadly dated for storytelling.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "teotihuacan",
+    "kind": "teotihuacan",
+    "palette": "terracotta",
+    "source": "https://whc.unesco.org/en/list/414/",
+    "stages": [
+      {
+        "year": 100,
+        "name": "Urban expansion",
+        "story": "A planned urban system grows along the Avenue of the Dead."
+      },
+      {
+        "year": 400,
+        "name": "Sun & Moon pyramids",
+        "story": "Large pyramids and residential districts form an influential metropolis."
+      },
+      {
+        "year": 2026,
+        "name": "Excavated avenue",
+        "story": "Monuments survive within a much-altered, intensively studied archaeological city."
+      }
+    ],
+    "caveat": "Two pyramids and avenue are symbolic; geometry and details are not scaled.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "borobudur",
+    "kind": "borobudur",
+    "palette": "basalt",
+    "source": "https://whc.unesco.org/en/list/592/",
+    "stages": [
+      {
+        "year": 780,
+        "name": "Hill sanctuary",
+        "story": "Early builders begin monumental stonework in central Java."
+      },
+      {
+        "year": 830,
+        "name": "Stone mandala",
+        "story": "Terraced galleries and bell-shaped stupas create a complex Buddhist pilgrimage space."
+      },
+      {
+        "year": 2026,
+        "name": "Restored pilgrimage",
+        "story": "The monument has undergone extensive conservation and remains an active heritage site."
+      }
+    ],
+    "caveat": "Concentric levels and stupas are approximations, not accurate relief galleries.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "rapanui",
+    "kind": "rapanui",
+    "palette": "volcanic",
+    "source": "https://whc.unesco.org/en/list/715/",
+    "stages": [
+      {
+        "year": 1100,
+        "name": "Ancestral platforms",
+        "story": "Communities establish ceremonial platforms and monumental carving traditions."
+      },
+      {
+        "year": 1500,
+        "name": "Moai on the ahu",
+        "story": "Moai are erected and transformed within an evolving Rapa Nui society."
+      },
+      {
+        "year": 2026,
+        "name": "Island archaeology",
+        "story": "Standing and fallen figures, quarries and ceremonial sites carry distinct histories."
+      }
+    ],
+    "caveat": "Moai count, posture and phase are illustrative; no universal timeline fits every ahu.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "nanmadol",
+    "kind": "nanmadol",
+    "palette": "lagoon",
+    "source": "https://whc.unesco.org/en/list/1503/",
+    "stages": [
+      {
+        "year": 1200,
+        "name": "Building islets",
+        "story": "Artificial islets take shape in the lagoon off Pohnpei."
+      },
+      {
+        "year": 1450,
+        "name": "Ceremonial tidal city",
+        "story": "Basalt architecture and canals create a ceremonial and political center."
+      },
+      {
+        "year": 2026,
+        "name": "Conservation challenge",
+        "story": "Ruins remain on tidal islets, vulnerable to water and vegetation."
+      }
+    ],
+    "caveat": "Basalt-wall network is stylized; this is not a mapped canal/islet survey.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "tikal",
+    "kind": "tikal",
+    "palette": "rainforest",
+    "source": "https://whc.unesco.org/en/list/64/",
+    "stages": [
+      {
+        "year": 250,
+        "name": "Royal center grows",
+        "story": "Maya rulers build and rebuild courts, plazas and monuments."
+      },
+      {
+        "year": 750,
+        "name": "Classic Maya skyline",
+        "story": "Great temples rise above an extensive occupied city landscape."
+      },
+      {
+        "year": 2026,
+        "name": "Forest and excavation",
+        "story": "Standing temples share the forest with remains of causeways, reservoirs and homes."
+      }
+    ],
+    "caveat": "Temple forms use a simplified Maya profile; not every pyramid stood in a single year.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "greatzimbabwe",
+    "kind": "greatzimbabwe",
+    "palette": "granite",
+    "source": "https://whc.unesco.org/en/list/364/",
+    "stages": [
+      {
+        "year": 1100,
+        "name": "Hill settlement",
+        "story": "An emerging southern African center develops around hill and valley settlements."
+      },
+      {
+        "year": 1350,
+        "name": "Great Enclosure",
+        "story": "Dry-stone enclosures and far-reaching trade shape the built landscape."
+      },
+      {
+        "year": 2026,
+        "name": "Stonework survives",
+        "story": "The impressive mortarless walls remain, although many earlier buildings were perishable."
+      }
+    ],
+    "caveat": "Elliptical walls and tower are schematic; not all enclosures developed simultaneously.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "pompeii",
+    "kind": "pompeii",
+    "palette": "volcanic",
+    "source": "https://whc.unesco.org/en/list/829/",
+    "stages": [
+      {
+        "year": -100,
+        "name": "Roman street life",
+        "story": "Before the Roman colony, Pompeii was shaped by Samnite and wider Campanian cultures. The city’s streets and temples developed over generations."
+      },
+      {
+        "year": 70,
+        "name": "The inhabited town",
+        "story": "Around 70 CE: paved streets, shops, atrium houses, gardens, public baths, the forum and amphitheater made this a bustling Roman city."
+      },
+      {
+        "year": 79,
+        "name": "Eruption of 79 CE",
+        "story": "In 79 CE pumice and ash accumulated; roofs collapsed, then lethal pyroclastic currents reached the city. The eruption was not a lava flood. This view is an evocative cross-section, not an eyewitness reconstruction."
+      }
+    ],
+    "caveat": "Stylized city blocks, amphitheater, forum and domus atria follow known Roman urban forms, not a mapped street-by-street survey. Ash is a representation of 79 CE fallout, not lava.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "rome",
+    "kind": "rome",
+    "palette": "travertine",
+    "source": "https://whc.unesco.org/en/list/91/",
+    "stages": [
+      {
+        "year": 72,
+        "name": "Flavian building works",
+        "story": "The Flavian Amphitheatre is constructed during the reigns of Vespasian and Titus."
+      },
+      {
+        "year": 80,
+        "name": "Amphitheatre opens",
+        "story": "Its opening as an arena forms part of imperial spectacle and civic life."
+      },
+      {
+        "year": 2026,
+        "name": "Layered ruins",
+        "story": "Centuries of change leave a partially surviving amphitheatre in a living city."
+      }
+    ],
+    "caveat": "An elliptical arena with simplified arcades represents the Colosseum; precise arch counts are not reconstructed.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "greatwall",
+    "kind": "greatwall",
+    "palette": "mountain",
+    "source": "https://whc.unesco.org/en/list/438/",
+    "stages": [
+      {
+        "year": 1400,
+        "name": "Earlier frontier works",
+        "story": "Centuries of frontier fortification precede many of the wall sectors seen today."
+      },
+      {
+        "year": 1550,
+        "name": "Ming fortifications",
+        "story": "Ming-era walls and watchtowers redefine sections of the defensive network."
+      },
+      {
+        "year": 2026,
+        "name": "Surviving wall sectors",
+        "story": "Preserved, restored and eroded stretches vary greatly; no single wall condition represents all of China."
+      }
+    ],
+    "caveat": "A winding Ming-style stretch is representative, not a continuously accurate Great Wall map.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "taj",
+    "kind": "taj",
+    "palette": "marble",
+    "source": "https://whc.unesco.org/en/list/252/",
+    "stages": [
+      {
+        "year": 1632,
+        "name": "Foundation and craftspeople",
+        "story": "Craft workers begin the Mughal mausoleum commissioned by Shah Jahan."
+      },
+      {
+        "year": 1648,
+        "name": "Marble mausoleum",
+        "story": "The main white marble mausoleum is completed; other garden and gateway works continue."
+      },
+      {
+        "year": 2026,
+        "name": "Conserved masterpiece",
+        "story": "The Taj remains a carefully conserved monument within its riverside garden."
+      }
+    ],
+    "caveat": "Dome, minarets and garden axes are stylized, not a survey-level monument.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "abusimbel",
+    "kind": "abusimbel",
+    "palette": "sandstone",
+    "source": "https://whc.unesco.org/en/list/88/",
+    "stages": [
+      {
+        "year": -1260,
+        "name": "Cutting into the cliff",
+        "story": "Rock-cut works are associated with the reign of Ramesses II; exact building years are approximate."
+      },
+      {
+        "year": -1240,
+        "name": "Ramesside sanctuary",
+        "story": "A monumental temple facade is carved into sandstone beside the Nile landscape."
+      },
+      {
+        "year": 2026,
+        "name": "Relocated temple",
+        "story": "The monuments were relocated during the 1960s to protect them from rising Lake Nasser."
+      }
+    ],
+    "caveat": "Seated statues and cliff are schematic; the scene does not show exact relocation engineering.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "sigiriya",
+    "kind": "sigiriya",
+    "palette": "tropical",
+    "source": "https://whc.unesco.org/en/list/202/",
+    "stages": [
+      {
+        "year": 470,
+        "name": "Rock landscape",
+        "story": "The massive rock outcrop has a longer religious and settlement history."
+      },
+      {
+        "year": 495,
+        "name": "Palace & gardens",
+        "story": "A late fifth-century royal complex develops with gardens and architecture around the rock."
+      },
+      {
+        "year": 2026,
+        "name": "Monastic and heritage site",
+        "story": "Rock, water gardens and surviving foundations remain; detailed palace rooflines are hypothetical."
+      }
+    ],
+    "caveat": "Rock shape and summit structures are illustrative, not lidar terrain.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "mohenjo",
+    "kind": "mohenjo",
+    "palette": "indus",
+    "source": "https://whc.unesco.org/en/list/138/",
+    "stages": [
+      {
+        "year": -2600,
+        "name": "Early Indus settlement",
+        "story": "The urban center grows during the Mature Harappan period."
+      },
+      {
+        "year": -2200,
+        "name": "Planned urban blocks",
+        "story": "Brick-built blocks, drains and the Great Bath point to sophisticated city engineering."
+      },
+      {
+        "year": 2026,
+        "name": "Excavated street grid",
+        "story": "Excavated remains show parts of a much larger settlement; its population is uncertain."
+      }
+    ],
+    "caveat": "Street blocks and bathing pool are symbolic, not an accurate excavation plan.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "lalibela",
+    "kind": "lalibela",
+    "palette": "redrock",
+    "source": "https://whc.unesco.org/en/list/18/",
+    "stages": [
+      {
+        "year": 1150,
+        "name": "Highland rock landscape",
+        "story": "The highland religious landscape develops around the medieval Zagwe period."
+      },
+      {
+        "year": 1250,
+        "name": "Rock-hewn churches",
+        "story": "Monolithic churches are cut down into rock and connected by trenches and passages."
+      },
+      {
+        "year": 2026,
+        "name": "Living pilgrimage",
+        "story": "The churches remain places of worship and ongoing conservation."
+      }
+    ],
+    "caveat": "One cruciform rock-cut church is schematic; exact carving sequence is debated.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "persepolis",
+    "kind": "persepolis",
+    "palette": "sandstone",
+    "source": "https://whc.unesco.org/en/list/114/",
+    "stages": [
+      {
+        "year": -518,
+        "name": "Darius begins a terrace",
+        "story": "Darius I begins a major terrace and royal construction project."
+      },
+      {
+        "year": -450,
+        "name": "Achaemenid palace complex",
+        "story": "Columns, stairways and halls express successive Achaemenid royal programs."
+      },
+      {
+        "year": 2026,
+        "name": "Ruined monumental terrace",
+        "story": "Column remains and stone reliefs survive after ancient destruction and later decay."
+      }
+    ],
+    "caveat": "Column grid and gates stand in for a larger palace ensemble; roofs are hypothetical.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  },
+  {
+    "id": "cusco",
+    "kind": "cusco",
+    "palette": "andes",
+    "source": "https://whc.unesco.org/en/list/273/",
+    "stages": [
+      {
+        "year": 1400,
+        "name": "Inca highland capital",
+        "story": "The Cusco region is shaped by earlier settlements and emerging Inca institutions."
+      },
+      {
+        "year": 1500,
+        "name": "Terraced fortress walls",
+        "story": "Massive zigzag walls at Saqsaywaman express extraordinary stone-cutting skill."
+      },
+      {
+        "year": 2026,
+        "name": "Living city & stonework",
+        "story": "Stonework survives within a complex living Andean city and landscape."
+      }
+    ],
+    "caveat": "Wall alignment is emblematic only; the model is not an excavated architectural plan.",
+    "renderer": "procedural-interpretive",
+    "status": "timeportal"
+  }
+]

@@ -1,0 +1,23 @@
+name: Validate WonderTime
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  source-and-bundle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate geography, chronology, and evidence labels
+        run: python source/validate.py
+      - name: Validate civilization data contract
+        run: python tests/civilization_contract.py
+      - name: Rebuild standalone HTML and assert checked-in reproducibility
+        run: |
+          cp index.html /tmp/WonderTime-prebuild.html
+          python source/build.py
+          cmp -s /tmp/WonderTime-prebuild.html index.html
