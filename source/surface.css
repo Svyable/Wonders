@@ -1,0 +1,20 @@
+/* Earth to ground: a responsive, circular geographic approach; never a historical map */
+.surface-view{position:absolute;inset:1.5%;border-radius:50%;overflow:hidden;background:#0a2630;opacity:0;visibility:hidden;pointer-events:none;transition:opacity .42s,visibility .42s;z-index:5;box-shadow:inset 0 0 50px #00111b,0 0 50px #3d91a62a;touch-action:none}
+.surface-view.active{opacity:1;visibility:visible;pointer-events:auto;cursor:grab}
+.surface-view.panning{cursor:grabbing}
+.surface-fallback,.surface-tiles,.surface-pins{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.surface-tiles img{position:absolute;width:256px;height:256px;max-width:none;user-select:none;pointer-events:none;opacity:0;transition:opacity .24s}
+.surface-tiles img.loaded{opacity:1}
+.surface-pins .surface-pin{position:absolute;transform:translate(-50%,-50%);border:1px solid #ffdda2;background:#12323ce5;color:#f1daae;padding:4px 7px;line-height:1;border-radius:30px;font-size:11px;pointer-events:auto;box-shadow:0 0 0 3px #00131a8e;white-space:nowrap;cursor:pointer}
+.surface-exit{position:absolute;z-index:9;top:15%;left:50%;transform:translateX(-50%);border:1px solid #b7d4d177;background:#07252bdf;color:#f0e1cb;padding:8px 11px;border-radius:20px;font-size:10px;white-space:nowrap;cursor:pointer}
+.surface-status{position:absolute;z-index:8;bottom:18%;left:50%;transform:translateX(-50%);width:max-content;max-width:78%;text-align:center;color:#f6e3bf;background:#07202ae8;border:1px solid #cdb07965;border-radius:20px;padding:6px 12px;font:9px ui-monospace,monospace;letter-spacing:.07em;pointer-events:none}
+.surface-attribution{position:absolute;z-index:8;bottom:12%;left:10%;right:10%;text-align:center;background:#061e27d9;border-radius:8px;padding:4px;color:#d3e2df;font-size:8px;line-height:1.4;pointer-events:auto}
+.surface-attribution a{color:#e9c68d;text-decoration:underline}
+.globe-controls button#surfaceEnter{background:#b88c4933;color:#eec37f;border-color:#ad8b5c84}
+@media(max-width:680px){.surface-exit{top:15%;font-size:9px;padding:6px 9px}.surface-status{bottom:19%;font-size:8px}.surface-attribution{font-size:7px;bottom:10%}}
+/* Keep all four globe tools above the fixed time dock. */
+.globe-controls{bottom:22%}
+@media(max-width:680px){.globe-controls{bottom:18%}}
+
+.globe-shell.surface-active > #globe,.globe-shell.surface-active > #markers{opacity:0;pointer-events:none}
+.globe-shell.surface-active::after{box-shadow:none}

@@ -54,3 +54,11 @@ Historical sources can document an object without establishing its lost full geo
 All curated initial links are stored in `source/sites.json` and repeated in `source/portals.json`. For stronger future editions, upgrade each location with period-specific scholarly event citations, excavated plans, optional rights-cleared photogrammetry / LiDAR / point clouds, measured dimensions and localized terrain. Until then, site-specific caveats appear directly beside each rendering.
 
 **Not a connected LLM:** the search assistant is an offline rules-based guide. No API key, MCP server, live search, satellite feed or remotely hosted AI powers the initial app.
+
+## Release 4.0: Zoomable Earth and Discovery Lab
+
+This release replaces the handmade map art with an embedded NASA Blue Marble composite and corrects the WebGL north/south inversion. Rotate Earth, use mouse wheel / touch controls to zoom, or choose **◉** to approach the surface. Geographic zoom uses local NASA texture without connectivity; with network access, NASA GIBS and EOX Cloudless 2016 tiled imagery can provide closer regional and satellite detail (zoom 3–14, subject to provider availability and terms). Back to orbit restores the globe. Modern base maps never purport to depict ancient landscapes.
+
+The new **Discoveries** tab opens an original interactive remote-sensing laboratory with five documented archaeological studies (Angkor, Caracol, Guatemala Maya lowlands, Campeche, and Bolivia Casarabe). Reveal illustrative under-canopy earthwork geometry, toggle feature outlines, follow scholarly links, or fly to the study region on Earth. These views illustrate evidence types; they are *not genuine LiDAR DEMs* or exact surveyed layouts. See `docs/SATELLITE_AND_LIDAR.md` and `source/discoveries.json` for evidence provenance and licensing.
+
+Rebuild: `python source/build.py`. Extra checks: `python tests/discovery_contract.py`, `python tests/globe_discovery_regression.py` and the existing `tests/timeportal_regression.py`.
