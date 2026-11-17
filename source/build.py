@@ -31,7 +31,11 @@ page = page.replace('__TIMEPORTAL_CSS__',(SRC/'timeportal.css').read_text(encodi
 page = page.replace('__TIMEPORTAL_ENGINE__',(SRC/'timeportal_engine.js').read_text(encoding='utf-8'))
 page = page.replace('__TIMEPORTAL_MARKUP__',(SRC/'timeportal_markup.html').read_text(encoding='utf-8'))
 page = page.replace('__EARTH_DATA__','data:image/webp;base64,'+base64.b64encode(WORLD_TEXTURE).decode('ascii'))
-page = page.replace('__LEGACY_GZIP__',base64.b64encode(gzip.compress(LEGACY.encode('utf-8'),compresslevel=9,mtime=0)).decode('ascii'))
+# Freeze the legacy gzip stream: zlib output differs across Python and OS versions.
+# Validate it against the editable source before embedding to prevent silent drift.
+LEGACY_GZIP_BYTES = base64.b64decode((SRC/'legacy_gzip.b64').read_text(encoding='ascii').strip())
+assert gzip.decompress(LEGACY_GZIP_BYTES) == LEGACY.encode('utf-8'), 'legacy gzip does not match editable source'
+page = page.replace('__LEGACY_GZIP__',base64.b64encode(LEGACY_GZIP_BYTES).decode('ascii'))
 assert all(x not in page for x in ('__SITES_JSON__','__HISTORY_JSON__','__PORTALS_JSON__','__TIMEPORTAL_CSS__','__TIMEPORTAL_ENGINE__','__TIMEPORTAL_MARKUP__','__CIVILIZATION_JSON__','__DISCOVERIES_JSON__','__SURFACE_CSS__','__DISCOVERY_CSS__','__SURFACE_ENGINE__','__DISCOVERY_ENGINE__','__DISCOVERY_MARKUP__'))
 out=ROOT/'index.html'
 out.write_text(page,encoding='utf-8')
